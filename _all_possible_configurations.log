@@ -1,0 +1,7164 @@
+=== ValidationConfig 0 ===
+(7x7) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('R', 5, 5) ('F', 4, 5)
+Boundaries: (0, 0, 8, 8)
+========================
+
+Grid (7x7) with positions:
+ 8 W W W W W W W W W 
+ 7 W . . . . . . . W 
+ 6 W . . . . . . . W 
+ 5 W . . . F R . . W 
+ 4 W . . . O . . . W 
+ 3 W . . . . . . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 1 ===
+(7x7) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('R', 4, 5) ('F', 3, 5)
+Boundaries: (0, 0, 8, 8)
+========================
+
+Grid (7x7) with positions:
+ 8 W W W W W W W W W 
+ 7 W . . . . . . . W 
+ 6 W . . . . . . . W 
+ 5 W . . F R . . . W 
+ 4 W . . . O . . . W 
+ 3 W . . . . . . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 2 ===
+(7x7) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('R', 6, 4) ('F', 5, 4)
+Boundaries: (0, 0, 8, 8)
+========================
+
+Grid (7x7) with positions:
+ 8 W W W W W W W W W 
+ 7 W . . . . . . . W 
+ 6 W . . . . . . . W 
+ 5 W . . . . . . . W 
+ 4 W . . . O F R . W 
+ 3 W . . . . . . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 3 ===
+(7x7) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('R', 3, 4) ('F', 2, 4)
+Boundaries: (0, 0, 8, 8)
+========================
+
+Grid (7x7) with positions:
+ 8 W W W W W W W W W 
+ 7 W . . . . . . . W 
+ 6 W . . . . . . . W 
+ 5 W . . . . . . . W 
+ 4 W . F R O . . . W 
+ 3 W . . . . . . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 4 ===
+(7x7) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('R', 5, 3) ('F', 4, 3)
+Boundaries: (0, 0, 8, 8)
+========================
+
+Grid (7x7) with positions:
+ 8 W W W W W W W W W 
+ 7 W . . . . . . . W 
+ 6 W . . . . . . . W 
+ 5 W . . . . . . . W 
+ 4 W . . . O . . . W 
+ 3 W . . . F R . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 5 ===
+(7x7) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('R', 4, 3) ('F', 3, 3)
+Boundaries: (0, 0, 8, 8)
+========================
+
+Grid (7x7) with positions:
+ 8 W W W W W W W W W 
+ 7 W . . . . . . . W 
+ 6 W . . . . . . . W 
+ 5 W . . . . . . . W 
+ 4 W . . . O . . . W 
+ 3 W . . F R . . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 6 ===
+(7x7) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('L', 5, 5) ('F', 4, 5)
+Boundaries: (0, 0, 8, 8)
+========================
+
+Grid (7x7) with positions:
+ 8 W W W W W W W W W 
+ 7 W . . . . . . . W 
+ 6 W . . . . . . . W 
+ 5 W . . . F L . . W 
+ 4 W . . . O . . . W 
+ 3 W . . . . . . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 7 ===
+(7x7) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('L', 4, 5) ('F', 3, 5)
+Boundaries: (0, 0, 8, 8)
+========================
+
+Grid (7x7) with positions:
+ 8 W W W W W W W W W 
+ 7 W . . . . . . . W 
+ 6 W . . . . . . . W 
+ 5 W . . F L . . . W 
+ 4 W . . . O . . . W 
+ 3 W . . . . . . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 8 ===
+(7x7) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('L', 6, 4) ('F', 5, 4)
+Boundaries: (0, 0, 8, 8)
+========================
+
+Grid (7x7) with positions:
+ 8 W W W W W W W W W 
+ 7 W . . . . . . . W 
+ 6 W . . . . . . . W 
+ 5 W . . . . . . . W 
+ 4 W . . . O F L . W 
+ 3 W . . . . . . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 9 ===
+(7x7) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('L', 3, 4) ('F', 2, 4)
+Boundaries: (0, 0, 8, 8)
+========================
+
+Grid (7x7) with positions:
+ 8 W W W W W W W W W 
+ 7 W . . . . . . . W 
+ 6 W . . . . . . . W 
+ 5 W . . . . . . . W 
+ 4 W . F L O . . . W 
+ 3 W . . . . . . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 10 ===
+(7x7) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('L', 5, 3) ('F', 4, 3)
+Boundaries: (0, 0, 8, 8)
+========================
+
+Grid (7x7) with positions:
+ 8 W W W W W W W W W 
+ 7 W . . . . . . . W 
+ 6 W . . . . . . . W 
+ 5 W . . . . . . . W 
+ 4 W . . . O . . . W 
+ 3 W . . . F L . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 11 ===
+(7x7) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('L', 4, 3) ('F', 3, 3)
+Boundaries: (0, 0, 8, 8)
+========================
+
+Grid (7x7) with positions:
+ 8 W W W W W W W W W 
+ 7 W . . . . . . . W 
+ 6 W . . . . . . . W 
+ 5 W . . . . . . . W 
+ 4 W . . . O . . . W 
+ 3 W . . F L . . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 12 ===
+(7x8) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('R', 5, 5) ('F', 4, 5)
+Boundaries: (0, 0, 8, 9)
+========================
+
+Grid (7x8) with positions:
+ 9 W W W W W W W W W 
+ 8 W . . . . . . . W 
+ 7 W . . . . . . . W 
+ 6 W . . . . . . . W 
+ 5 W . . . F R . . W 
+ 4 W . . . O . . . W 
+ 3 W . . . . . . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 13 ===
+(7x8) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('R', 4, 5) ('F', 3, 5)
+Boundaries: (0, 0, 8, 9)
+========================
+
+Grid (7x8) with positions:
+ 9 W W W W W W W W W 
+ 8 W . . . . . . . W 
+ 7 W . . . . . . . W 
+ 6 W . . . . . . . W 
+ 5 W . . F R . . . W 
+ 4 W . . . O . . . W 
+ 3 W . . . . . . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 14 ===
+(7x8) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('R', 6, 4) ('F', 5, 4)
+Boundaries: (0, 0, 8, 9)
+========================
+
+Grid (7x8) with positions:
+ 9 W W W W W W W W W 
+ 8 W . . . . . . . W 
+ 7 W . . . . . . . W 
+ 6 W . . . . . . . W 
+ 5 W . . . . . . . W 
+ 4 W . . . O F R . W 
+ 3 W . . . . . . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 15 ===
+(7x8) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('R', 3, 4) ('F', 2, 4)
+Boundaries: (0, 0, 8, 9)
+========================
+
+Grid (7x8) with positions:
+ 9 W W W W W W W W W 
+ 8 W . . . . . . . W 
+ 7 W . . . . . . . W 
+ 6 W . . . . . . . W 
+ 5 W . . . . . . . W 
+ 4 W . F R O . . . W 
+ 3 W . . . . . . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 16 ===
+(7x8) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('R', 5, 3) ('F', 4, 3)
+Boundaries: (0, 0, 8, 9)
+========================
+
+Grid (7x8) with positions:
+ 9 W W W W W W W W W 
+ 8 W . . . . . . . W 
+ 7 W . . . . . . . W 
+ 6 W . . . . . . . W 
+ 5 W . . . . . . . W 
+ 4 W . . . O . . . W 
+ 3 W . . . F R . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 17 ===
+(7x8) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('R', 4, 3) ('F', 3, 3)
+Boundaries: (0, 0, 8, 9)
+========================
+
+Grid (7x8) with positions:
+ 9 W W W W W W W W W 
+ 8 W . . . . . . . W 
+ 7 W . . . . . . . W 
+ 6 W . . . . . . . W 
+ 5 W . . . . . . . W 
+ 4 W . . . O . . . W 
+ 3 W . . F R . . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 18 ===
+(7x8) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('L', 5, 5) ('F', 4, 5)
+Boundaries: (0, 0, 8, 9)
+========================
+
+Grid (7x8) with positions:
+ 9 W W W W W W W W W 
+ 8 W . . . . . . . W 
+ 7 W . . . . . . . W 
+ 6 W . . . . . . . W 
+ 5 W . . . F L . . W 
+ 4 W . . . O . . . W 
+ 3 W . . . . . . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 19 ===
+(7x8) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('L', 4, 5) ('F', 3, 5)
+Boundaries: (0, 0, 8, 9)
+========================
+
+Grid (7x8) with positions:
+ 9 W W W W W W W W W 
+ 8 W . . . . . . . W 
+ 7 W . . . . . . . W 
+ 6 W . . . . . . . W 
+ 5 W . . F L . . . W 
+ 4 W . . . O . . . W 
+ 3 W . . . . . . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 20 ===
+(7x8) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('L', 6, 4) ('F', 5, 4)
+Boundaries: (0, 0, 8, 9)
+========================
+
+Grid (7x8) with positions:
+ 9 W W W W W W W W W 
+ 8 W . . . . . . . W 
+ 7 W . . . . . . . W 
+ 6 W . . . . . . . W 
+ 5 W . . . . . . . W 
+ 4 W . . . O F L . W 
+ 3 W . . . . . . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 21 ===
+(7x8) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('L', 3, 4) ('F', 2, 4)
+Boundaries: (0, 0, 8, 9)
+========================
+
+Grid (7x8) with positions:
+ 9 W W W W W W W W W 
+ 8 W . . . . . . . W 
+ 7 W . . . . . . . W 
+ 6 W . . . . . . . W 
+ 5 W . . . . . . . W 
+ 4 W . F L O . . . W 
+ 3 W . . . . . . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 22 ===
+(7x8) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('L', 5, 3) ('F', 4, 3)
+Boundaries: (0, 0, 8, 9)
+========================
+
+Grid (7x8) with positions:
+ 9 W W W W W W W W W 
+ 8 W . . . . . . . W 
+ 7 W . . . . . . . W 
+ 6 W . . . . . . . W 
+ 5 W . . . . . . . W 
+ 4 W . . . O . . . W 
+ 3 W . . . F L . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 23 ===
+(7x8) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('L', 4, 3) ('F', 3, 3)
+Boundaries: (0, 0, 8, 9)
+========================
+
+Grid (7x8) with positions:
+ 9 W W W W W W W W W 
+ 8 W . . . . . . . W 
+ 7 W . . . . . . . W 
+ 6 W . . . . . . . W 
+ 5 W . . . . . . . W 
+ 4 W . . . O . . . W 
+ 3 W . . F L . . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 24 ===
+(7x8) with obs at (4,5)
+Initial Positions: ('O', 4, 5) ('R', 5, 6) ('F', 4, 6)
+Boundaries: (0, 0, 8, 9)
+========================
+
+Grid (7x8) with positions:
+ 9 W W W W W W W W W 
+ 8 W . . . . . . . W 
+ 7 W . . . . . . . W 
+ 6 W . . . F R . . W 
+ 5 W . . . O . . . W 
+ 4 W . . . . . . . W 
+ 3 W . . . . . . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 25 ===
+(7x8) with obs at (4,5)
+Initial Positions: ('O', 4, 5) ('R', 4, 6) ('F', 3, 6)
+Boundaries: (0, 0, 8, 9)
+========================
+
+Grid (7x8) with positions:
+ 9 W W W W W W W W W 
+ 8 W . . . . . . . W 
+ 7 W . . . . . . . W 
+ 6 W . . F R . . . W 
+ 5 W . . . O . . . W 
+ 4 W . . . . . . . W 
+ 3 W . . . . . . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 26 ===
+(7x8) with obs at (4,5)
+Initial Positions: ('O', 4, 5) ('R', 6, 5) ('F', 5, 5)
+Boundaries: (0, 0, 8, 9)
+========================
+
+Grid (7x8) with positions:
+ 9 W W W W W W W W W 
+ 8 W . . . . . . . W 
+ 7 W . . . . . . . W 
+ 6 W . . . . . . . W 
+ 5 W . . . O F R . W 
+ 4 W . . . . . . . W 
+ 3 W . . . . . . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 27 ===
+(7x8) with obs at (4,5)
+Initial Positions: ('O', 4, 5) ('R', 3, 5) ('F', 2, 5)
+Boundaries: (0, 0, 8, 9)
+========================
+
+Grid (7x8) with positions:
+ 9 W W W W W W W W W 
+ 8 W . . . . . . . W 
+ 7 W . . . . . . . W 
+ 6 W . . . . . . . W 
+ 5 W . F R O . . . W 
+ 4 W . . . . . . . W 
+ 3 W . . . . . . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 28 ===
+(7x8) with obs at (4,5)
+Initial Positions: ('O', 4, 5) ('R', 5, 4) ('F', 4, 4)
+Boundaries: (0, 0, 8, 9)
+========================
+
+Grid (7x8) with positions:
+ 9 W W W W W W W W W 
+ 8 W . . . . . . . W 
+ 7 W . . . . . . . W 
+ 6 W . . . . . . . W 
+ 5 W . . . O . . . W 
+ 4 W . . . F R . . W 
+ 3 W . . . . . . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 29 ===
+(7x8) with obs at (4,5)
+Initial Positions: ('O', 4, 5) ('R', 4, 4) ('F', 3, 4)
+Boundaries: (0, 0, 8, 9)
+========================
+
+Grid (7x8) with positions:
+ 9 W W W W W W W W W 
+ 8 W . . . . . . . W 
+ 7 W . . . . . . . W 
+ 6 W . . . . . . . W 
+ 5 W . . . O . . . W 
+ 4 W . . F R . . . W 
+ 3 W . . . . . . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 30 ===
+(7x8) with obs at (4,5)
+Initial Positions: ('O', 4, 5) ('L', 5, 6) ('F', 4, 6)
+Boundaries: (0, 0, 8, 9)
+========================
+
+Grid (7x8) with positions:
+ 9 W W W W W W W W W 
+ 8 W . . . . . . . W 
+ 7 W . . . . . . . W 
+ 6 W . . . F L . . W 
+ 5 W . . . O . . . W 
+ 4 W . . . . . . . W 
+ 3 W . . . . . . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 31 ===
+(7x8) with obs at (4,5)
+Initial Positions: ('O', 4, 5) ('L', 4, 6) ('F', 3, 6)
+Boundaries: (0, 0, 8, 9)
+========================
+
+Grid (7x8) with positions:
+ 9 W W W W W W W W W 
+ 8 W . . . . . . . W 
+ 7 W . . . . . . . W 
+ 6 W . . F L . . . W 
+ 5 W . . . O . . . W 
+ 4 W . . . . . . . W 
+ 3 W . . . . . . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 32 ===
+(7x8) with obs at (4,5)
+Initial Positions: ('O', 4, 5) ('L', 6, 5) ('F', 5, 5)
+Boundaries: (0, 0, 8, 9)
+========================
+
+Grid (7x8) with positions:
+ 9 W W W W W W W W W 
+ 8 W . . . . . . . W 
+ 7 W . . . . . . . W 
+ 6 W . . . . . . . W 
+ 5 W . . . O F L . W 
+ 4 W . . . . . . . W 
+ 3 W . . . . . . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 33 ===
+(7x8) with obs at (4,5)
+Initial Positions: ('O', 4, 5) ('L', 3, 5) ('F', 2, 5)
+Boundaries: (0, 0, 8, 9)
+========================
+
+Grid (7x8) with positions:
+ 9 W W W W W W W W W 
+ 8 W . . . . . . . W 
+ 7 W . . . . . . . W 
+ 6 W . . . . . . . W 
+ 5 W . F L O . . . W 
+ 4 W . . . . . . . W 
+ 3 W . . . . . . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 34 ===
+(7x8) with obs at (4,5)
+Initial Positions: ('O', 4, 5) ('L', 5, 4) ('F', 4, 4)
+Boundaries: (0, 0, 8, 9)
+========================
+
+Grid (7x8) with positions:
+ 9 W W W W W W W W W 
+ 8 W . . . . . . . W 
+ 7 W . . . . . . . W 
+ 6 W . . . . . . . W 
+ 5 W . . . O . . . W 
+ 4 W . . . F L . . W 
+ 3 W . . . . . . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 35 ===
+(7x8) with obs at (4,5)
+Initial Positions: ('O', 4, 5) ('L', 4, 4) ('F', 3, 4)
+Boundaries: (0, 0, 8, 9)
+========================
+
+Grid (7x8) with positions:
+ 9 W W W W W W W W W 
+ 8 W . . . . . . . W 
+ 7 W . . . . . . . W 
+ 6 W . . . . . . . W 
+ 5 W . . . O . . . W 
+ 4 W . . F L . . . W 
+ 3 W . . . . . . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 36 ===
+(7x9) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('R', 5, 5) ('F', 4, 5)
+Boundaries: (0, 0, 8, 10)
+========================
+
+Grid (7x9) with positions:
+10 W W W W W W W W W 
+ 9 W . . . . . . . W 
+ 8 W . . . . . . . W 
+ 7 W . . . . . . . W 
+ 6 W . . . . . . . W 
+ 5 W . . . F R . . W 
+ 4 W . . . O . . . W 
+ 3 W . . . . . . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 37 ===
+(7x9) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('R', 4, 5) ('F', 3, 5)
+Boundaries: (0, 0, 8, 10)
+========================
+
+Grid (7x9) with positions:
+10 W W W W W W W W W 
+ 9 W . . . . . . . W 
+ 8 W . . . . . . . W 
+ 7 W . . . . . . . W 
+ 6 W . . . . . . . W 
+ 5 W . . F R . . . W 
+ 4 W . . . O . . . W 
+ 3 W . . . . . . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 38 ===
+(7x9) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('R', 6, 4) ('F', 5, 4)
+Boundaries: (0, 0, 8, 10)
+========================
+
+Grid (7x9) with positions:
+10 W W W W W W W W W 
+ 9 W . . . . . . . W 
+ 8 W . . . . . . . W 
+ 7 W . . . . . . . W 
+ 6 W . . . . . . . W 
+ 5 W . . . . . . . W 
+ 4 W . . . O F R . W 
+ 3 W . . . . . . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 39 ===
+(7x9) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('R', 3, 4) ('F', 2, 4)
+Boundaries: (0, 0, 8, 10)
+========================
+
+Grid (7x9) with positions:
+10 W W W W W W W W W 
+ 9 W . . . . . . . W 
+ 8 W . . . . . . . W 
+ 7 W . . . . . . . W 
+ 6 W . . . . . . . W 
+ 5 W . . . . . . . W 
+ 4 W . F R O . . . W 
+ 3 W . . . . . . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 40 ===
+(7x9) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('R', 5, 3) ('F', 4, 3)
+Boundaries: (0, 0, 8, 10)
+========================
+
+Grid (7x9) with positions:
+10 W W W W W W W W W 
+ 9 W . . . . . . . W 
+ 8 W . . . . . . . W 
+ 7 W . . . . . . . W 
+ 6 W . . . . . . . W 
+ 5 W . . . . . . . W 
+ 4 W . . . O . . . W 
+ 3 W . . . F R . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 41 ===
+(7x9) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('R', 4, 3) ('F', 3, 3)
+Boundaries: (0, 0, 8, 10)
+========================
+
+Grid (7x9) with positions:
+10 W W W W W W W W W 
+ 9 W . . . . . . . W 
+ 8 W . . . . . . . W 
+ 7 W . . . . . . . W 
+ 6 W . . . . . . . W 
+ 5 W . . . . . . . W 
+ 4 W . . . O . . . W 
+ 3 W . . F R . . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 42 ===
+(7x9) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('L', 5, 5) ('F', 4, 5)
+Boundaries: (0, 0, 8, 10)
+========================
+
+Grid (7x9) with positions:
+10 W W W W W W W W W 
+ 9 W . . . . . . . W 
+ 8 W . . . . . . . W 
+ 7 W . . . . . . . W 
+ 6 W . . . . . . . W 
+ 5 W . . . F L . . W 
+ 4 W . . . O . . . W 
+ 3 W . . . . . . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 43 ===
+(7x9) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('L', 4, 5) ('F', 3, 5)
+Boundaries: (0, 0, 8, 10)
+========================
+
+Grid (7x9) with positions:
+10 W W W W W W W W W 
+ 9 W . . . . . . . W 
+ 8 W . . . . . . . W 
+ 7 W . . . . . . . W 
+ 6 W . . . . . . . W 
+ 5 W . . F L . . . W 
+ 4 W . . . O . . . W 
+ 3 W . . . . . . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 44 ===
+(7x9) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('L', 6, 4) ('F', 5, 4)
+Boundaries: (0, 0, 8, 10)
+========================
+
+Grid (7x9) with positions:
+10 W W W W W W W W W 
+ 9 W . . . . . . . W 
+ 8 W . . . . . . . W 
+ 7 W . . . . . . . W 
+ 6 W . . . . . . . W 
+ 5 W . . . . . . . W 
+ 4 W . . . O F L . W 
+ 3 W . . . . . . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 45 ===
+(7x9) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('L', 3, 4) ('F', 2, 4)
+Boundaries: (0, 0, 8, 10)
+========================
+
+Grid (7x9) with positions:
+10 W W W W W W W W W 
+ 9 W . . . . . . . W 
+ 8 W . . . . . . . W 
+ 7 W . . . . . . . W 
+ 6 W . . . . . . . W 
+ 5 W . . . . . . . W 
+ 4 W . F L O . . . W 
+ 3 W . . . . . . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 46 ===
+(7x9) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('L', 5, 3) ('F', 4, 3)
+Boundaries: (0, 0, 8, 10)
+========================
+
+Grid (7x9) with positions:
+10 W W W W W W W W W 
+ 9 W . . . . . . . W 
+ 8 W . . . . . . . W 
+ 7 W . . . . . . . W 
+ 6 W . . . . . . . W 
+ 5 W . . . . . . . W 
+ 4 W . . . O . . . W 
+ 3 W . . . F L . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 47 ===
+(7x9) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('L', 4, 3) ('F', 3, 3)
+Boundaries: (0, 0, 8, 10)
+========================
+
+Grid (7x9) with positions:
+10 W W W W W W W W W 
+ 9 W . . . . . . . W 
+ 8 W . . . . . . . W 
+ 7 W . . . . . . . W 
+ 6 W . . . . . . . W 
+ 5 W . . . . . . . W 
+ 4 W . . . O . . . W 
+ 3 W . . F L . . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 48 ===
+(7x9) with obs at (4,5)
+Initial Positions: ('O', 4, 5) ('R', 5, 6) ('F', 4, 6)
+Boundaries: (0, 0, 8, 10)
+========================
+
+Grid (7x9) with positions:
+10 W W W W W W W W W 
+ 9 W . . . . . . . W 
+ 8 W . . . . . . . W 
+ 7 W . . . . . . . W 
+ 6 W . . . F R . . W 
+ 5 W . . . O . . . W 
+ 4 W . . . . . . . W 
+ 3 W . . . . . . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 49 ===
+(7x9) with obs at (4,5)
+Initial Positions: ('O', 4, 5) ('R', 4, 6) ('F', 3, 6)
+Boundaries: (0, 0, 8, 10)
+========================
+
+Grid (7x9) with positions:
+10 W W W W W W W W W 
+ 9 W . . . . . . . W 
+ 8 W . . . . . . . W 
+ 7 W . . . . . . . W 
+ 6 W . . F R . . . W 
+ 5 W . . . O . . . W 
+ 4 W . . . . . . . W 
+ 3 W . . . . . . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 50 ===
+(7x9) with obs at (4,5)
+Initial Positions: ('O', 4, 5) ('R', 6, 5) ('F', 5, 5)
+Boundaries: (0, 0, 8, 10)
+========================
+
+Grid (7x9) with positions:
+10 W W W W W W W W W 
+ 9 W . . . . . . . W 
+ 8 W . . . . . . . W 
+ 7 W . . . . . . . W 
+ 6 W . . . . . . . W 
+ 5 W . . . O F R . W 
+ 4 W . . . . . . . W 
+ 3 W . . . . . . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 51 ===
+(7x9) with obs at (4,5)
+Initial Positions: ('O', 4, 5) ('R', 3, 5) ('F', 2, 5)
+Boundaries: (0, 0, 8, 10)
+========================
+
+Grid (7x9) with positions:
+10 W W W W W W W W W 
+ 9 W . . . . . . . W 
+ 8 W . . . . . . . W 
+ 7 W . . . . . . . W 
+ 6 W . . . . . . . W 
+ 5 W . F R O . . . W 
+ 4 W . . . . . . . W 
+ 3 W . . . . . . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 52 ===
+(7x9) with obs at (4,5)
+Initial Positions: ('O', 4, 5) ('R', 5, 4) ('F', 4, 4)
+Boundaries: (0, 0, 8, 10)
+========================
+
+Grid (7x9) with positions:
+10 W W W W W W W W W 
+ 9 W . . . . . . . W 
+ 8 W . . . . . . . W 
+ 7 W . . . . . . . W 
+ 6 W . . . . . . . W 
+ 5 W . . . O . . . W 
+ 4 W . . . F R . . W 
+ 3 W . . . . . . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 53 ===
+(7x9) with obs at (4,5)
+Initial Positions: ('O', 4, 5) ('R', 4, 4) ('F', 3, 4)
+Boundaries: (0, 0, 8, 10)
+========================
+
+Grid (7x9) with positions:
+10 W W W W W W W W W 
+ 9 W . . . . . . . W 
+ 8 W . . . . . . . W 
+ 7 W . . . . . . . W 
+ 6 W . . . . . . . W 
+ 5 W . . . O . . . W 
+ 4 W . . F R . . . W 
+ 3 W . . . . . . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 54 ===
+(7x9) with obs at (4,5)
+Initial Positions: ('O', 4, 5) ('L', 5, 6) ('F', 4, 6)
+Boundaries: (0, 0, 8, 10)
+========================
+
+Grid (7x9) with positions:
+10 W W W W W W W W W 
+ 9 W . . . . . . . W 
+ 8 W . . . . . . . W 
+ 7 W . . . . . . . W 
+ 6 W . . . F L . . W 
+ 5 W . . . O . . . W 
+ 4 W . . . . . . . W 
+ 3 W . . . . . . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 55 ===
+(7x9) with obs at (4,5)
+Initial Positions: ('O', 4, 5) ('L', 4, 6) ('F', 3, 6)
+Boundaries: (0, 0, 8, 10)
+========================
+
+Grid (7x9) with positions:
+10 W W W W W W W W W 
+ 9 W . . . . . . . W 
+ 8 W . . . . . . . W 
+ 7 W . . . . . . . W 
+ 6 W . . F L . . . W 
+ 5 W . . . O . . . W 
+ 4 W . . . . . . . W 
+ 3 W . . . . . . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 56 ===
+(7x9) with obs at (4,5)
+Initial Positions: ('O', 4, 5) ('L', 6, 5) ('F', 5, 5)
+Boundaries: (0, 0, 8, 10)
+========================
+
+Grid (7x9) with positions:
+10 W W W W W W W W W 
+ 9 W . . . . . . . W 
+ 8 W . . . . . . . W 
+ 7 W . . . . . . . W 
+ 6 W . . . . . . . W 
+ 5 W . . . O F L . W 
+ 4 W . . . . . . . W 
+ 3 W . . . . . . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 57 ===
+(7x9) with obs at (4,5)
+Initial Positions: ('O', 4, 5) ('L', 3, 5) ('F', 2, 5)
+Boundaries: (0, 0, 8, 10)
+========================
+
+Grid (7x9) with positions:
+10 W W W W W W W W W 
+ 9 W . . . . . . . W 
+ 8 W . . . . . . . W 
+ 7 W . . . . . . . W 
+ 6 W . . . . . . . W 
+ 5 W . F L O . . . W 
+ 4 W . . . . . . . W 
+ 3 W . . . . . . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 58 ===
+(7x9) with obs at (4,5)
+Initial Positions: ('O', 4, 5) ('L', 5, 4) ('F', 4, 4)
+Boundaries: (0, 0, 8, 10)
+========================
+
+Grid (7x9) with positions:
+10 W W W W W W W W W 
+ 9 W . . . . . . . W 
+ 8 W . . . . . . . W 
+ 7 W . . . . . . . W 
+ 6 W . . . . . . . W 
+ 5 W . . . O . . . W 
+ 4 W . . . F L . . W 
+ 3 W . . . . . . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 59 ===
+(7x9) with obs at (4,5)
+Initial Positions: ('O', 4, 5) ('L', 4, 4) ('F', 3, 4)
+Boundaries: (0, 0, 8, 10)
+========================
+
+Grid (7x9) with positions:
+10 W W W W W W W W W 
+ 9 W . . . . . . . W 
+ 8 W . . . . . . . W 
+ 7 W . . . . . . . W 
+ 6 W . . . . . . . W 
+ 5 W . . . O . . . W 
+ 4 W . . F L . . . W 
+ 3 W . . . . . . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 60 ===
+(7x9) with obs at (4,6)
+Initial Positions: ('O', 4, 6) ('R', 5, 7) ('F', 4, 7)
+Boundaries: (0, 0, 8, 10)
+========================
+
+Grid (7x9) with positions:
+10 W W W W W W W W W 
+ 9 W . . . . . . . W 
+ 8 W . . . . . . . W 
+ 7 W . . . F R . . W 
+ 6 W . . . O . . . W 
+ 5 W . . . . . . . W 
+ 4 W . . . . . . . W 
+ 3 W . . . . . . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 61 ===
+(7x9) with obs at (4,6)
+Initial Positions: ('O', 4, 6) ('R', 4, 7) ('F', 3, 7)
+Boundaries: (0, 0, 8, 10)
+========================
+
+Grid (7x9) with positions:
+10 W W W W W W W W W 
+ 9 W . . . . . . . W 
+ 8 W . . . . . . . W 
+ 7 W . . F R . . . W 
+ 6 W . . . O . . . W 
+ 5 W . . . . . . . W 
+ 4 W . . . . . . . W 
+ 3 W . . . . . . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 62 ===
+(7x9) with obs at (4,6)
+Initial Positions: ('O', 4, 6) ('R', 6, 6) ('F', 5, 6)
+Boundaries: (0, 0, 8, 10)
+========================
+
+Grid (7x9) with positions:
+10 W W W W W W W W W 
+ 9 W . . . . . . . W 
+ 8 W . . . . . . . W 
+ 7 W . . . . . . . W 
+ 6 W . . . O F R . W 
+ 5 W . . . . . . . W 
+ 4 W . . . . . . . W 
+ 3 W . . . . . . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 63 ===
+(7x9) with obs at (4,6)
+Initial Positions: ('O', 4, 6) ('R', 3, 6) ('F', 2, 6)
+Boundaries: (0, 0, 8, 10)
+========================
+
+Grid (7x9) with positions:
+10 W W W W W W W W W 
+ 9 W . . . . . . . W 
+ 8 W . . . . . . . W 
+ 7 W . . . . . . . W 
+ 6 W . F R O . . . W 
+ 5 W . . . . . . . W 
+ 4 W . . . . . . . W 
+ 3 W . . . . . . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 64 ===
+(7x9) with obs at (4,6)
+Initial Positions: ('O', 4, 6) ('R', 5, 5) ('F', 4, 5)
+Boundaries: (0, 0, 8, 10)
+========================
+
+Grid (7x9) with positions:
+10 W W W W W W W W W 
+ 9 W . . . . . . . W 
+ 8 W . . . . . . . W 
+ 7 W . . . . . . . W 
+ 6 W . . . O . . . W 
+ 5 W . . . F R . . W 
+ 4 W . . . . . . . W 
+ 3 W . . . . . . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 65 ===
+(7x9) with obs at (4,6)
+Initial Positions: ('O', 4, 6) ('R', 4, 5) ('F', 3, 5)
+Boundaries: (0, 0, 8, 10)
+========================
+
+Grid (7x9) with positions:
+10 W W W W W W W W W 
+ 9 W . . . . . . . W 
+ 8 W . . . . . . . W 
+ 7 W . . . . . . . W 
+ 6 W . . . O . . . W 
+ 5 W . . F R . . . W 
+ 4 W . . . . . . . W 
+ 3 W . . . . . . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 66 ===
+(7x9) with obs at (4,6)
+Initial Positions: ('O', 4, 6) ('L', 5, 7) ('F', 4, 7)
+Boundaries: (0, 0, 8, 10)
+========================
+
+Grid (7x9) with positions:
+10 W W W W W W W W W 
+ 9 W . . . . . . . W 
+ 8 W . . . . . . . W 
+ 7 W . . . F L . . W 
+ 6 W . . . O . . . W 
+ 5 W . . . . . . . W 
+ 4 W . . . . . . . W 
+ 3 W . . . . . . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 67 ===
+(7x9) with obs at (4,6)
+Initial Positions: ('O', 4, 6) ('L', 4, 7) ('F', 3, 7)
+Boundaries: (0, 0, 8, 10)
+========================
+
+Grid (7x9) with positions:
+10 W W W W W W W W W 
+ 9 W . . . . . . . W 
+ 8 W . . . . . . . W 
+ 7 W . . F L . . . W 
+ 6 W . . . O . . . W 
+ 5 W . . . . . . . W 
+ 4 W . . . . . . . W 
+ 3 W . . . . . . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 68 ===
+(7x9) with obs at (4,6)
+Initial Positions: ('O', 4, 6) ('L', 6, 6) ('F', 5, 6)
+Boundaries: (0, 0, 8, 10)
+========================
+
+Grid (7x9) with positions:
+10 W W W W W W W W W 
+ 9 W . . . . . . . W 
+ 8 W . . . . . . . W 
+ 7 W . . . . . . . W 
+ 6 W . . . O F L . W 
+ 5 W . . . . . . . W 
+ 4 W . . . . . . . W 
+ 3 W . . . . . . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 69 ===
+(7x9) with obs at (4,6)
+Initial Positions: ('O', 4, 6) ('L', 3, 6) ('F', 2, 6)
+Boundaries: (0, 0, 8, 10)
+========================
+
+Grid (7x9) with positions:
+10 W W W W W W W W W 
+ 9 W . . . . . . . W 
+ 8 W . . . . . . . W 
+ 7 W . . . . . . . W 
+ 6 W . F L O . . . W 
+ 5 W . . . . . . . W 
+ 4 W . . . . . . . W 
+ 3 W . . . . . . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 70 ===
+(7x9) with obs at (4,6)
+Initial Positions: ('O', 4, 6) ('L', 5, 5) ('F', 4, 5)
+Boundaries: (0, 0, 8, 10)
+========================
+
+Grid (7x9) with positions:
+10 W W W W W W W W W 
+ 9 W . . . . . . . W 
+ 8 W . . . . . . . W 
+ 7 W . . . . . . . W 
+ 6 W . . . O . . . W 
+ 5 W . . . F L . . W 
+ 4 W . . . . . . . W 
+ 3 W . . . . . . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 71 ===
+(7x9) with obs at (4,6)
+Initial Positions: ('O', 4, 6) ('L', 4, 5) ('F', 3, 5)
+Boundaries: (0, 0, 8, 10)
+========================
+
+Grid (7x9) with positions:
+10 W W W W W W W W W 
+ 9 W . . . . . . . W 
+ 8 W . . . . . . . W 
+ 7 W . . . . . . . W 
+ 6 W . . . O . . . W 
+ 5 W . . F L . . . W 
+ 4 W . . . . . . . W 
+ 3 W . . . . . . . W 
+ 2 W . . . . . . . W 
+ 1 W . . . . . . . W 
+ 0 W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 
+
+
+----------------------------------------
+
+=== ValidationConfig 72 ===
+(8x7) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('R', 5, 5) ('F', 4, 5)
+Boundaries: (0, 0, 9, 8)
+========================
+
+Grid (8x7) with positions:
+ 8 W W W W W W W W W W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . F R . . . W 
+ 4 W . . . O . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 73 ===
+(8x7) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('R', 4, 5) ('F', 3, 5)
+Boundaries: (0, 0, 9, 8)
+========================
+
+Grid (8x7) with positions:
+ 8 W W W W W W W W W W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . F R . . . . W 
+ 4 W . . . O . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 74 ===
+(8x7) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('R', 6, 4) ('F', 5, 4)
+Boundaries: (0, 0, 9, 8)
+========================
+
+Grid (8x7) with positions:
+ 8 W W W W W W W W W W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . . . . . . W 
+ 4 W . . . O F R . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 75 ===
+(8x7) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('R', 3, 4) ('F', 2, 4)
+Boundaries: (0, 0, 9, 8)
+========================
+
+Grid (8x7) with positions:
+ 8 W W W W W W W W W W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . . . . . . W 
+ 4 W . F R O . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 76 ===
+(8x7) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('R', 5, 3) ('F', 4, 3)
+Boundaries: (0, 0, 9, 8)
+========================
+
+Grid (8x7) with positions:
+ 8 W W W W W W W W W W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . . . . . . W 
+ 4 W . . . O . . . . W 
+ 3 W . . . F R . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 77 ===
+(8x7) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('R', 4, 3) ('F', 3, 3)
+Boundaries: (0, 0, 9, 8)
+========================
+
+Grid (8x7) with positions:
+ 8 W W W W W W W W W W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . . . . . . W 
+ 4 W . . . O . . . . W 
+ 3 W . . F R . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 78 ===
+(8x7) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('L', 5, 5) ('F', 4, 5)
+Boundaries: (0, 0, 9, 8)
+========================
+
+Grid (8x7) with positions:
+ 8 W W W W W W W W W W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . F L . . . W 
+ 4 W . . . O . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 79 ===
+(8x7) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('L', 4, 5) ('F', 3, 5)
+Boundaries: (0, 0, 9, 8)
+========================
+
+Grid (8x7) with positions:
+ 8 W W W W W W W W W W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . F L . . . . W 
+ 4 W . . . O . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 80 ===
+(8x7) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('L', 6, 4) ('F', 5, 4)
+Boundaries: (0, 0, 9, 8)
+========================
+
+Grid (8x7) with positions:
+ 8 W W W W W W W W W W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . . . . . . W 
+ 4 W . . . O F L . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 81 ===
+(8x7) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('L', 3, 4) ('F', 2, 4)
+Boundaries: (0, 0, 9, 8)
+========================
+
+Grid (8x7) with positions:
+ 8 W W W W W W W W W W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . . . . . . W 
+ 4 W . F L O . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 82 ===
+(8x7) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('L', 5, 3) ('F', 4, 3)
+Boundaries: (0, 0, 9, 8)
+========================
+
+Grid (8x7) with positions:
+ 8 W W W W W W W W W W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . . . . . . W 
+ 4 W . . . O . . . . W 
+ 3 W . . . F L . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 83 ===
+(8x7) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('L', 4, 3) ('F', 3, 3)
+Boundaries: (0, 0, 9, 8)
+========================
+
+Grid (8x7) with positions:
+ 8 W W W W W W W W W W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . . . . . . W 
+ 4 W . . . O . . . . W 
+ 3 W . . F L . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 84 ===
+(8x7) with obs at (5,4)
+Initial Positions: ('O', 5, 4) ('R', 6, 5) ('F', 5, 5)
+Boundaries: (0, 0, 9, 8)
+========================
+
+Grid (8x7) with positions:
+ 8 W W W W W W W W W W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . . F R . . W 
+ 4 W . . . . O . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 85 ===
+(8x7) with obs at (5,4)
+Initial Positions: ('O', 5, 4) ('R', 5, 5) ('F', 4, 5)
+Boundaries: (0, 0, 9, 8)
+========================
+
+Grid (8x7) with positions:
+ 8 W W W W W W W W W W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . F R . . . W 
+ 4 W . . . . O . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 86 ===
+(8x7) with obs at (5,4)
+Initial Positions: ('O', 5, 4) ('R', 7, 4) ('F', 6, 4)
+Boundaries: (0, 0, 9, 8)
+========================
+
+Grid (8x7) with positions:
+ 8 W W W W W W W W W W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . . . . . . W 
+ 4 W . . . . O F R . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 87 ===
+(8x7) with obs at (5,4)
+Initial Positions: ('O', 5, 4) ('R', 4, 4) ('F', 3, 4)
+Boundaries: (0, 0, 9, 8)
+========================
+
+Grid (8x7) with positions:
+ 8 W W W W W W W W W W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . . . . . . W 
+ 4 W . . F R O . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 88 ===
+(8x7) with obs at (5,4)
+Initial Positions: ('O', 5, 4) ('R', 6, 3) ('F', 5, 3)
+Boundaries: (0, 0, 9, 8)
+========================
+
+Grid (8x7) with positions:
+ 8 W W W W W W W W W W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . . . . . . W 
+ 4 W . . . . O . . . W 
+ 3 W . . . . F R . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 89 ===
+(8x7) with obs at (5,4)
+Initial Positions: ('O', 5, 4) ('R', 5, 3) ('F', 4, 3)
+Boundaries: (0, 0, 9, 8)
+========================
+
+Grid (8x7) with positions:
+ 8 W W W W W W W W W W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . . . . . . W 
+ 4 W . . . . O . . . W 
+ 3 W . . . F R . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 90 ===
+(8x7) with obs at (5,4)
+Initial Positions: ('O', 5, 4) ('L', 6, 5) ('F', 5, 5)
+Boundaries: (0, 0, 9, 8)
+========================
+
+Grid (8x7) with positions:
+ 8 W W W W W W W W W W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . . F L . . W 
+ 4 W . . . . O . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 91 ===
+(8x7) with obs at (5,4)
+Initial Positions: ('O', 5, 4) ('L', 5, 5) ('F', 4, 5)
+Boundaries: (0, 0, 9, 8)
+========================
+
+Grid (8x7) with positions:
+ 8 W W W W W W W W W W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . F L . . . W 
+ 4 W . . . . O . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 92 ===
+(8x7) with obs at (5,4)
+Initial Positions: ('O', 5, 4) ('L', 7, 4) ('F', 6, 4)
+Boundaries: (0, 0, 9, 8)
+========================
+
+Grid (8x7) with positions:
+ 8 W W W W W W W W W W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . . . . . . W 
+ 4 W . . . . O F L . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 93 ===
+(8x7) with obs at (5,4)
+Initial Positions: ('O', 5, 4) ('L', 4, 4) ('F', 3, 4)
+Boundaries: (0, 0, 9, 8)
+========================
+
+Grid (8x7) with positions:
+ 8 W W W W W W W W W W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . . . . . . W 
+ 4 W . . F L O . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 94 ===
+(8x7) with obs at (5,4)
+Initial Positions: ('O', 5, 4) ('L', 6, 3) ('F', 5, 3)
+Boundaries: (0, 0, 9, 8)
+========================
+
+Grid (8x7) with positions:
+ 8 W W W W W W W W W W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . . . . . . W 
+ 4 W . . . . O . . . W 
+ 3 W . . . . F L . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 95 ===
+(8x7) with obs at (5,4)
+Initial Positions: ('O', 5, 4) ('L', 5, 3) ('F', 4, 3)
+Boundaries: (0, 0, 9, 8)
+========================
+
+Grid (8x7) with positions:
+ 8 W W W W W W W W W W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . . . . . . W 
+ 4 W . . . . O . . . W 
+ 3 W . . . F L . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 96 ===
+(8x8) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('R', 5, 5) ('F', 4, 5)
+Boundaries: (0, 0, 9, 9)
+========================
+
+Grid (8x8) with positions:
+ 9 W W W W W W W W W W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . F R . . . W 
+ 4 W . . . O . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 97 ===
+(8x8) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('R', 4, 5) ('F', 3, 5)
+Boundaries: (0, 0, 9, 9)
+========================
+
+Grid (8x8) with positions:
+ 9 W W W W W W W W W W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . F R . . . . W 
+ 4 W . . . O . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 98 ===
+(8x8) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('R', 6, 4) ('F', 5, 4)
+Boundaries: (0, 0, 9, 9)
+========================
+
+Grid (8x8) with positions:
+ 9 W W W W W W W W W W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . . . . . . W 
+ 4 W . . . O F R . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 99 ===
+(8x8) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('R', 3, 4) ('F', 2, 4)
+Boundaries: (0, 0, 9, 9)
+========================
+
+Grid (8x8) with positions:
+ 9 W W W W W W W W W W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . . . . . . W 
+ 4 W . F R O . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 100 ===
+(8x8) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('R', 5, 3) ('F', 4, 3)
+Boundaries: (0, 0, 9, 9)
+========================
+
+Grid (8x8) with positions:
+ 9 W W W W W W W W W W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . . . . . . W 
+ 4 W . . . O . . . . W 
+ 3 W . . . F R . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 101 ===
+(8x8) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('R', 4, 3) ('F', 3, 3)
+Boundaries: (0, 0, 9, 9)
+========================
+
+Grid (8x8) with positions:
+ 9 W W W W W W W W W W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . . . . . . W 
+ 4 W . . . O . . . . W 
+ 3 W . . F R . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 102 ===
+(8x8) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('L', 5, 5) ('F', 4, 5)
+Boundaries: (0, 0, 9, 9)
+========================
+
+Grid (8x8) with positions:
+ 9 W W W W W W W W W W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . F L . . . W 
+ 4 W . . . O . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 103 ===
+(8x8) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('L', 4, 5) ('F', 3, 5)
+Boundaries: (0, 0, 9, 9)
+========================
+
+Grid (8x8) with positions:
+ 9 W W W W W W W W W W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . F L . . . . W 
+ 4 W . . . O . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 104 ===
+(8x8) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('L', 6, 4) ('F', 5, 4)
+Boundaries: (0, 0, 9, 9)
+========================
+
+Grid (8x8) with positions:
+ 9 W W W W W W W W W W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . . . . . . W 
+ 4 W . . . O F L . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 105 ===
+(8x8) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('L', 3, 4) ('F', 2, 4)
+Boundaries: (0, 0, 9, 9)
+========================
+
+Grid (8x8) with positions:
+ 9 W W W W W W W W W W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . . . . . . W 
+ 4 W . F L O . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 106 ===
+(8x8) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('L', 5, 3) ('F', 4, 3)
+Boundaries: (0, 0, 9, 9)
+========================
+
+Grid (8x8) with positions:
+ 9 W W W W W W W W W W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . . . . . . W 
+ 4 W . . . O . . . . W 
+ 3 W . . . F L . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 107 ===
+(8x8) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('L', 4, 3) ('F', 3, 3)
+Boundaries: (0, 0, 9, 9)
+========================
+
+Grid (8x8) with positions:
+ 9 W W W W W W W W W W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . . . . . . W 
+ 4 W . . . O . . . . W 
+ 3 W . . F L . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 108 ===
+(8x8) with obs at (4,5)
+Initial Positions: ('O', 4, 5) ('R', 5, 6) ('F', 4, 6)
+Boundaries: (0, 0, 9, 9)
+========================
+
+Grid (8x8) with positions:
+ 9 W W W W W W W W W W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . F R . . . W 
+ 5 W . . . O . . . . W 
+ 4 W . . . . . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 109 ===
+(8x8) with obs at (4,5)
+Initial Positions: ('O', 4, 5) ('R', 4, 6) ('F', 3, 6)
+Boundaries: (0, 0, 9, 9)
+========================
+
+Grid (8x8) with positions:
+ 9 W W W W W W W W W W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . F R . . . . W 
+ 5 W . . . O . . . . W 
+ 4 W . . . . . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 110 ===
+(8x8) with obs at (4,5)
+Initial Positions: ('O', 4, 5) ('R', 6, 5) ('F', 5, 5)
+Boundaries: (0, 0, 9, 9)
+========================
+
+Grid (8x8) with positions:
+ 9 W W W W W W W W W W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . O F R . . W 
+ 4 W . . . . . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 111 ===
+(8x8) with obs at (4,5)
+Initial Positions: ('O', 4, 5) ('R', 3, 5) ('F', 2, 5)
+Boundaries: (0, 0, 9, 9)
+========================
+
+Grid (8x8) with positions:
+ 9 W W W W W W W W W W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . F R O . . . . W 
+ 4 W . . . . . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 112 ===
+(8x8) with obs at (4,5)
+Initial Positions: ('O', 4, 5) ('R', 5, 4) ('F', 4, 4)
+Boundaries: (0, 0, 9, 9)
+========================
+
+Grid (8x8) with positions:
+ 9 W W W W W W W W W W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . O . . . . W 
+ 4 W . . . F R . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 113 ===
+(8x8) with obs at (4,5)
+Initial Positions: ('O', 4, 5) ('R', 4, 4) ('F', 3, 4)
+Boundaries: (0, 0, 9, 9)
+========================
+
+Grid (8x8) with positions:
+ 9 W W W W W W W W W W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . O . . . . W 
+ 4 W . . F R . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 114 ===
+(8x8) with obs at (4,5)
+Initial Positions: ('O', 4, 5) ('L', 5, 6) ('F', 4, 6)
+Boundaries: (0, 0, 9, 9)
+========================
+
+Grid (8x8) with positions:
+ 9 W W W W W W W W W W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . F L . . . W 
+ 5 W . . . O . . . . W 
+ 4 W . . . . . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 115 ===
+(8x8) with obs at (4,5)
+Initial Positions: ('O', 4, 5) ('L', 4, 6) ('F', 3, 6)
+Boundaries: (0, 0, 9, 9)
+========================
+
+Grid (8x8) with positions:
+ 9 W W W W W W W W W W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . F L . . . . W 
+ 5 W . . . O . . . . W 
+ 4 W . . . . . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 116 ===
+(8x8) with obs at (4,5)
+Initial Positions: ('O', 4, 5) ('L', 6, 5) ('F', 5, 5)
+Boundaries: (0, 0, 9, 9)
+========================
+
+Grid (8x8) with positions:
+ 9 W W W W W W W W W W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . O F L . . W 
+ 4 W . . . . . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 117 ===
+(8x8) with obs at (4,5)
+Initial Positions: ('O', 4, 5) ('L', 3, 5) ('F', 2, 5)
+Boundaries: (0, 0, 9, 9)
+========================
+
+Grid (8x8) with positions:
+ 9 W W W W W W W W W W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . F L O . . . . W 
+ 4 W . . . . . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 118 ===
+(8x8) with obs at (4,5)
+Initial Positions: ('O', 4, 5) ('L', 5, 4) ('F', 4, 4)
+Boundaries: (0, 0, 9, 9)
+========================
+
+Grid (8x8) with positions:
+ 9 W W W W W W W W W W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . O . . . . W 
+ 4 W . . . F L . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 119 ===
+(8x8) with obs at (4,5)
+Initial Positions: ('O', 4, 5) ('L', 4, 4) ('F', 3, 4)
+Boundaries: (0, 0, 9, 9)
+========================
+
+Grid (8x8) with positions:
+ 9 W W W W W W W W W W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . O . . . . W 
+ 4 W . . F L . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 120 ===
+(8x8) with obs at (5,4)
+Initial Positions: ('O', 5, 4) ('R', 6, 5) ('F', 5, 5)
+Boundaries: (0, 0, 9, 9)
+========================
+
+Grid (8x8) with positions:
+ 9 W W W W W W W W W W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . . F R . . W 
+ 4 W . . . . O . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 121 ===
+(8x8) with obs at (5,4)
+Initial Positions: ('O', 5, 4) ('R', 5, 5) ('F', 4, 5)
+Boundaries: (0, 0, 9, 9)
+========================
+
+Grid (8x8) with positions:
+ 9 W W W W W W W W W W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . F R . . . W 
+ 4 W . . . . O . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 122 ===
+(8x8) with obs at (5,4)
+Initial Positions: ('O', 5, 4) ('R', 7, 4) ('F', 6, 4)
+Boundaries: (0, 0, 9, 9)
+========================
+
+Grid (8x8) with positions:
+ 9 W W W W W W W W W W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . . . . . . W 
+ 4 W . . . . O F R . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 123 ===
+(8x8) with obs at (5,4)
+Initial Positions: ('O', 5, 4) ('R', 4, 4) ('F', 3, 4)
+Boundaries: (0, 0, 9, 9)
+========================
+
+Grid (8x8) with positions:
+ 9 W W W W W W W W W W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . . . . . . W 
+ 4 W . . F R O . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 124 ===
+(8x8) with obs at (5,4)
+Initial Positions: ('O', 5, 4) ('R', 6, 3) ('F', 5, 3)
+Boundaries: (0, 0, 9, 9)
+========================
+
+Grid (8x8) with positions:
+ 9 W W W W W W W W W W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . . . . . . W 
+ 4 W . . . . O . . . W 
+ 3 W . . . . F R . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 125 ===
+(8x8) with obs at (5,4)
+Initial Positions: ('O', 5, 4) ('R', 5, 3) ('F', 4, 3)
+Boundaries: (0, 0, 9, 9)
+========================
+
+Grid (8x8) with positions:
+ 9 W W W W W W W W W W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . . . . . . W 
+ 4 W . . . . O . . . W 
+ 3 W . . . F R . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 126 ===
+(8x8) with obs at (5,4)
+Initial Positions: ('O', 5, 4) ('L', 6, 5) ('F', 5, 5)
+Boundaries: (0, 0, 9, 9)
+========================
+
+Grid (8x8) with positions:
+ 9 W W W W W W W W W W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . . F L . . W 
+ 4 W . . . . O . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 127 ===
+(8x8) with obs at (5,4)
+Initial Positions: ('O', 5, 4) ('L', 5, 5) ('F', 4, 5)
+Boundaries: (0, 0, 9, 9)
+========================
+
+Grid (8x8) with positions:
+ 9 W W W W W W W W W W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . F L . . . W 
+ 4 W . . . . O . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 128 ===
+(8x8) with obs at (5,4)
+Initial Positions: ('O', 5, 4) ('L', 7, 4) ('F', 6, 4)
+Boundaries: (0, 0, 9, 9)
+========================
+
+Grid (8x8) with positions:
+ 9 W W W W W W W W W W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . . . . . . W 
+ 4 W . . . . O F L . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 129 ===
+(8x8) with obs at (5,4)
+Initial Positions: ('O', 5, 4) ('L', 4, 4) ('F', 3, 4)
+Boundaries: (0, 0, 9, 9)
+========================
+
+Grid (8x8) with positions:
+ 9 W W W W W W W W W W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . . . . . . W 
+ 4 W . . F L O . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 130 ===
+(8x8) with obs at (5,4)
+Initial Positions: ('O', 5, 4) ('L', 6, 3) ('F', 5, 3)
+Boundaries: (0, 0, 9, 9)
+========================
+
+Grid (8x8) with positions:
+ 9 W W W W W W W W W W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . . . . . . W 
+ 4 W . . . . O . . . W 
+ 3 W . . . . F L . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 131 ===
+(8x8) with obs at (5,4)
+Initial Positions: ('O', 5, 4) ('L', 5, 3) ('F', 4, 3)
+Boundaries: (0, 0, 9, 9)
+========================
+
+Grid (8x8) with positions:
+ 9 W W W W W W W W W W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . . . . . . W 
+ 4 W . . . . O . . . W 
+ 3 W . . . F L . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 132 ===
+(8x8) with obs at (5,5)
+Initial Positions: ('O', 5, 5) ('R', 6, 6) ('F', 5, 6)
+Boundaries: (0, 0, 9, 9)
+========================
+
+Grid (8x8) with positions:
+ 9 W W W W W W W W W W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . F R . . W 
+ 5 W . . . . O . . . W 
+ 4 W . . . . . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 133 ===
+(8x8) with obs at (5,5)
+Initial Positions: ('O', 5, 5) ('R', 5, 6) ('F', 4, 6)
+Boundaries: (0, 0, 9, 9)
+========================
+
+Grid (8x8) with positions:
+ 9 W W W W W W W W W W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . F R . . . W 
+ 5 W . . . . O . . . W 
+ 4 W . . . . . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 134 ===
+(8x8) with obs at (5,5)
+Initial Positions: ('O', 5, 5) ('R', 7, 5) ('F', 6, 5)
+Boundaries: (0, 0, 9, 9)
+========================
+
+Grid (8x8) with positions:
+ 9 W W W W W W W W W W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . . O F R . W 
+ 4 W . . . . . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 135 ===
+(8x8) with obs at (5,5)
+Initial Positions: ('O', 5, 5) ('R', 4, 5) ('F', 3, 5)
+Boundaries: (0, 0, 9, 9)
+========================
+
+Grid (8x8) with positions:
+ 9 W W W W W W W W W W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . F R O . . . W 
+ 4 W . . . . . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 136 ===
+(8x8) with obs at (5,5)
+Initial Positions: ('O', 5, 5) ('R', 6, 4) ('F', 5, 4)
+Boundaries: (0, 0, 9, 9)
+========================
+
+Grid (8x8) with positions:
+ 9 W W W W W W W W W W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . . O . . . W 
+ 4 W . . . . F R . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 137 ===
+(8x8) with obs at (5,5)
+Initial Positions: ('O', 5, 5) ('R', 5, 4) ('F', 4, 4)
+Boundaries: (0, 0, 9, 9)
+========================
+
+Grid (8x8) with positions:
+ 9 W W W W W W W W W W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . . O . . . W 
+ 4 W . . . F R . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 138 ===
+(8x8) with obs at (5,5)
+Initial Positions: ('O', 5, 5) ('L', 6, 6) ('F', 5, 6)
+Boundaries: (0, 0, 9, 9)
+========================
+
+Grid (8x8) with positions:
+ 9 W W W W W W W W W W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . F L . . W 
+ 5 W . . . . O . . . W 
+ 4 W . . . . . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 139 ===
+(8x8) with obs at (5,5)
+Initial Positions: ('O', 5, 5) ('L', 5, 6) ('F', 4, 6)
+Boundaries: (0, 0, 9, 9)
+========================
+
+Grid (8x8) with positions:
+ 9 W W W W W W W W W W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . F L . . . W 
+ 5 W . . . . O . . . W 
+ 4 W . . . . . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 140 ===
+(8x8) with obs at (5,5)
+Initial Positions: ('O', 5, 5) ('L', 7, 5) ('F', 6, 5)
+Boundaries: (0, 0, 9, 9)
+========================
+
+Grid (8x8) with positions:
+ 9 W W W W W W W W W W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . . O F L . W 
+ 4 W . . . . . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 141 ===
+(8x8) with obs at (5,5)
+Initial Positions: ('O', 5, 5) ('L', 4, 5) ('F', 3, 5)
+Boundaries: (0, 0, 9, 9)
+========================
+
+Grid (8x8) with positions:
+ 9 W W W W W W W W W W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . F L O . . . W 
+ 4 W . . . . . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 142 ===
+(8x8) with obs at (5,5)
+Initial Positions: ('O', 5, 5) ('L', 6, 4) ('F', 5, 4)
+Boundaries: (0, 0, 9, 9)
+========================
+
+Grid (8x8) with positions:
+ 9 W W W W W W W W W W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . . O . . . W 
+ 4 W . . . . F L . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 143 ===
+(8x8) with obs at (5,5)
+Initial Positions: ('O', 5, 5) ('L', 5, 4) ('F', 4, 4)
+Boundaries: (0, 0, 9, 9)
+========================
+
+Grid (8x8) with positions:
+ 9 W W W W W W W W W W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . . O . . . W 
+ 4 W . . . F L . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 144 ===
+(8x9) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('R', 5, 5) ('F', 4, 5)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . F R . . . W 
+ 4 W . . . O . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 145 ===
+(8x9) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('R', 4, 5) ('F', 3, 5)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . F R . . . . W 
+ 4 W . . . O . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 146 ===
+(8x9) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('R', 6, 4) ('F', 5, 4)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . . . . . . W 
+ 4 W . . . O F R . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 147 ===
+(8x9) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('R', 3, 4) ('F', 2, 4)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . . . . . . W 
+ 4 W . F R O . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 148 ===
+(8x9) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('R', 5, 3) ('F', 4, 3)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . . . . . . W 
+ 4 W . . . O . . . . W 
+ 3 W . . . F R . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 149 ===
+(8x9) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('R', 4, 3) ('F', 3, 3)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . . . . . . W 
+ 4 W . . . O . . . . W 
+ 3 W . . F R . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 150 ===
+(8x9) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('L', 5, 5) ('F', 4, 5)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . F L . . . W 
+ 4 W . . . O . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 151 ===
+(8x9) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('L', 4, 5) ('F', 3, 5)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . F L . . . . W 
+ 4 W . . . O . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 152 ===
+(8x9) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('L', 6, 4) ('F', 5, 4)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . . . . . . W 
+ 4 W . . . O F L . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 153 ===
+(8x9) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('L', 3, 4) ('F', 2, 4)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . . . . . . W 
+ 4 W . F L O . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 154 ===
+(8x9) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('L', 5, 3) ('F', 4, 3)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . . . . . . W 
+ 4 W . . . O . . . . W 
+ 3 W . . . F L . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 155 ===
+(8x9) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('L', 4, 3) ('F', 3, 3)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . . . . . . W 
+ 4 W . . . O . . . . W 
+ 3 W . . F L . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 156 ===
+(8x9) with obs at (4,5)
+Initial Positions: ('O', 4, 5) ('R', 5, 6) ('F', 4, 6)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . F R . . . W 
+ 5 W . . . O . . . . W 
+ 4 W . . . . . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 157 ===
+(8x9) with obs at (4,5)
+Initial Positions: ('O', 4, 5) ('R', 4, 6) ('F', 3, 6)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . F R . . . . W 
+ 5 W . . . O . . . . W 
+ 4 W . . . . . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 158 ===
+(8x9) with obs at (4,5)
+Initial Positions: ('O', 4, 5) ('R', 6, 5) ('F', 5, 5)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . O F R . . W 
+ 4 W . . . . . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 159 ===
+(8x9) with obs at (4,5)
+Initial Positions: ('O', 4, 5) ('R', 3, 5) ('F', 2, 5)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . F R O . . . . W 
+ 4 W . . . . . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 160 ===
+(8x9) with obs at (4,5)
+Initial Positions: ('O', 4, 5) ('R', 5, 4) ('F', 4, 4)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . O . . . . W 
+ 4 W . . . F R . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 161 ===
+(8x9) with obs at (4,5)
+Initial Positions: ('O', 4, 5) ('R', 4, 4) ('F', 3, 4)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . O . . . . W 
+ 4 W . . F R . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 162 ===
+(8x9) with obs at (4,5)
+Initial Positions: ('O', 4, 5) ('L', 5, 6) ('F', 4, 6)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . F L . . . W 
+ 5 W . . . O . . . . W 
+ 4 W . . . . . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 163 ===
+(8x9) with obs at (4,5)
+Initial Positions: ('O', 4, 5) ('L', 4, 6) ('F', 3, 6)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . F L . . . . W 
+ 5 W . . . O . . . . W 
+ 4 W . . . . . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 164 ===
+(8x9) with obs at (4,5)
+Initial Positions: ('O', 4, 5) ('L', 6, 5) ('F', 5, 5)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . O F L . . W 
+ 4 W . . . . . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 165 ===
+(8x9) with obs at (4,5)
+Initial Positions: ('O', 4, 5) ('L', 3, 5) ('F', 2, 5)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . F L O . . . . W 
+ 4 W . . . . . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 166 ===
+(8x9) with obs at (4,5)
+Initial Positions: ('O', 4, 5) ('L', 5, 4) ('F', 4, 4)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . O . . . . W 
+ 4 W . . . F L . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 167 ===
+(8x9) with obs at (4,5)
+Initial Positions: ('O', 4, 5) ('L', 4, 4) ('F', 3, 4)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . O . . . . W 
+ 4 W . . F L . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 168 ===
+(8x9) with obs at (4,6)
+Initial Positions: ('O', 4, 6) ('R', 5, 7) ('F', 4, 7)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . . F R . . . W 
+ 6 W . . . O . . . . W 
+ 5 W . . . . . . . . W 
+ 4 W . . . . . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 169 ===
+(8x9) with obs at (4,6)
+Initial Positions: ('O', 4, 6) ('R', 4, 7) ('F', 3, 7)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . F R . . . . W 
+ 6 W . . . O . . . . W 
+ 5 W . . . . . . . . W 
+ 4 W . . . . . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 170 ===
+(8x9) with obs at (4,6)
+Initial Positions: ('O', 4, 6) ('R', 6, 6) ('F', 5, 6)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . O F R . . W 
+ 5 W . . . . . . . . W 
+ 4 W . . . . . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 171 ===
+(8x9) with obs at (4,6)
+Initial Positions: ('O', 4, 6) ('R', 3, 6) ('F', 2, 6)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . F R O . . . . W 
+ 5 W . . . . . . . . W 
+ 4 W . . . . . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 172 ===
+(8x9) with obs at (4,6)
+Initial Positions: ('O', 4, 6) ('R', 5, 5) ('F', 4, 5)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . O . . . . W 
+ 5 W . . . F R . . . W 
+ 4 W . . . . . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 173 ===
+(8x9) with obs at (4,6)
+Initial Positions: ('O', 4, 6) ('R', 4, 5) ('F', 3, 5)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . O . . . . W 
+ 5 W . . F R . . . . W 
+ 4 W . . . . . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 174 ===
+(8x9) with obs at (4,6)
+Initial Positions: ('O', 4, 6) ('L', 5, 7) ('F', 4, 7)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . . F L . . . W 
+ 6 W . . . O . . . . W 
+ 5 W . . . . . . . . W 
+ 4 W . . . . . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 175 ===
+(8x9) with obs at (4,6)
+Initial Positions: ('O', 4, 6) ('L', 4, 7) ('F', 3, 7)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . F L . . . . W 
+ 6 W . . . O . . . . W 
+ 5 W . . . . . . . . W 
+ 4 W . . . . . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 176 ===
+(8x9) with obs at (4,6)
+Initial Positions: ('O', 4, 6) ('L', 6, 6) ('F', 5, 6)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . O F L . . W 
+ 5 W . . . . . . . . W 
+ 4 W . . . . . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 177 ===
+(8x9) with obs at (4,6)
+Initial Positions: ('O', 4, 6) ('L', 3, 6) ('F', 2, 6)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . F L O . . . . W 
+ 5 W . . . . . . . . W 
+ 4 W . . . . . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 178 ===
+(8x9) with obs at (4,6)
+Initial Positions: ('O', 4, 6) ('L', 5, 5) ('F', 4, 5)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . O . . . . W 
+ 5 W . . . F L . . . W 
+ 4 W . . . . . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 179 ===
+(8x9) with obs at (4,6)
+Initial Positions: ('O', 4, 6) ('L', 4, 5) ('F', 3, 5)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . O . . . . W 
+ 5 W . . F L . . . . W 
+ 4 W . . . . . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 180 ===
+(8x9) with obs at (5,4)
+Initial Positions: ('O', 5, 4) ('R', 6, 5) ('F', 5, 5)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . . F R . . W 
+ 4 W . . . . O . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 181 ===
+(8x9) with obs at (5,4)
+Initial Positions: ('O', 5, 4) ('R', 5, 5) ('F', 4, 5)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . F R . . . W 
+ 4 W . . . . O . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 182 ===
+(8x9) with obs at (5,4)
+Initial Positions: ('O', 5, 4) ('R', 7, 4) ('F', 6, 4)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . . . . . . W 
+ 4 W . . . . O F R . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 183 ===
+(8x9) with obs at (5,4)
+Initial Positions: ('O', 5, 4) ('R', 4, 4) ('F', 3, 4)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . . . . . . W 
+ 4 W . . F R O . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 184 ===
+(8x9) with obs at (5,4)
+Initial Positions: ('O', 5, 4) ('R', 6, 3) ('F', 5, 3)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . . . . . . W 
+ 4 W . . . . O . . . W 
+ 3 W . . . . F R . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 185 ===
+(8x9) with obs at (5,4)
+Initial Positions: ('O', 5, 4) ('R', 5, 3) ('F', 4, 3)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . . . . . . W 
+ 4 W . . . . O . . . W 
+ 3 W . . . F R . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 186 ===
+(8x9) with obs at (5,4)
+Initial Positions: ('O', 5, 4) ('L', 6, 5) ('F', 5, 5)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . . F L . . W 
+ 4 W . . . . O . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 187 ===
+(8x9) with obs at (5,4)
+Initial Positions: ('O', 5, 4) ('L', 5, 5) ('F', 4, 5)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . F L . . . W 
+ 4 W . . . . O . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 188 ===
+(8x9) with obs at (5,4)
+Initial Positions: ('O', 5, 4) ('L', 7, 4) ('F', 6, 4)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . . . . . . W 
+ 4 W . . . . O F L . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 189 ===
+(8x9) with obs at (5,4)
+Initial Positions: ('O', 5, 4) ('L', 4, 4) ('F', 3, 4)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . . . . . . W 
+ 4 W . . F L O . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 190 ===
+(8x9) with obs at (5,4)
+Initial Positions: ('O', 5, 4) ('L', 6, 3) ('F', 5, 3)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . . . . . . W 
+ 4 W . . . . O . . . W 
+ 3 W . . . . F L . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 191 ===
+(8x9) with obs at (5,4)
+Initial Positions: ('O', 5, 4) ('L', 5, 3) ('F', 4, 3)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . . . . . . W 
+ 4 W . . . . O . . . W 
+ 3 W . . . F L . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 192 ===
+(8x9) with obs at (5,5)
+Initial Positions: ('O', 5, 5) ('R', 6, 6) ('F', 5, 6)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . F R . . W 
+ 5 W . . . . O . . . W 
+ 4 W . . . . . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 193 ===
+(8x9) with obs at (5,5)
+Initial Positions: ('O', 5, 5) ('R', 5, 6) ('F', 4, 6)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . F R . . . W 
+ 5 W . . . . O . . . W 
+ 4 W . . . . . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 194 ===
+(8x9) with obs at (5,5)
+Initial Positions: ('O', 5, 5) ('R', 7, 5) ('F', 6, 5)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . . O F R . W 
+ 4 W . . . . . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 195 ===
+(8x9) with obs at (5,5)
+Initial Positions: ('O', 5, 5) ('R', 4, 5) ('F', 3, 5)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . F R O . . . W 
+ 4 W . . . . . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 196 ===
+(8x9) with obs at (5,5)
+Initial Positions: ('O', 5, 5) ('R', 6, 4) ('F', 5, 4)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . . O . . . W 
+ 4 W . . . . F R . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 197 ===
+(8x9) with obs at (5,5)
+Initial Positions: ('O', 5, 5) ('R', 5, 4) ('F', 4, 4)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . . O . . . W 
+ 4 W . . . F R . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 198 ===
+(8x9) with obs at (5,5)
+Initial Positions: ('O', 5, 5) ('L', 6, 6) ('F', 5, 6)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . F L . . W 
+ 5 W . . . . O . . . W 
+ 4 W . . . . . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 199 ===
+(8x9) with obs at (5,5)
+Initial Positions: ('O', 5, 5) ('L', 5, 6) ('F', 4, 6)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . F L . . . W 
+ 5 W . . . . O . . . W 
+ 4 W . . . . . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 200 ===
+(8x9) with obs at (5,5)
+Initial Positions: ('O', 5, 5) ('L', 7, 5) ('F', 6, 5)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . . O F L . W 
+ 4 W . . . . . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 201 ===
+(8x9) with obs at (5,5)
+Initial Positions: ('O', 5, 5) ('L', 4, 5) ('F', 3, 5)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . F L O . . . W 
+ 4 W . . . . . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 202 ===
+(8x9) with obs at (5,5)
+Initial Positions: ('O', 5, 5) ('L', 6, 4) ('F', 5, 4)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . . O . . . W 
+ 4 W . . . . F L . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 203 ===
+(8x9) with obs at (5,5)
+Initial Positions: ('O', 5, 5) ('L', 5, 4) ('F', 4, 4)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . . . . . W 
+ 5 W . . . . O . . . W 
+ 4 W . . . F L . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 204 ===
+(8x9) with obs at (5,6)
+Initial Positions: ('O', 5, 6) ('R', 6, 7) ('F', 5, 7)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . F R . . W 
+ 6 W . . . . O . . . W 
+ 5 W . . . . . . . . W 
+ 4 W . . . . . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 205 ===
+(8x9) with obs at (5,6)
+Initial Positions: ('O', 5, 6) ('R', 5, 7) ('F', 4, 7)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . . F R . . . W 
+ 6 W . . . . O . . . W 
+ 5 W . . . . . . . . W 
+ 4 W . . . . . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 206 ===
+(8x9) with obs at (5,6)
+Initial Positions: ('O', 5, 6) ('R', 7, 6) ('F', 6, 6)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . O F R . W 
+ 5 W . . . . . . . . W 
+ 4 W . . . . . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 207 ===
+(8x9) with obs at (5,6)
+Initial Positions: ('O', 5, 6) ('R', 4, 6) ('F', 3, 6)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . F R O . . . W 
+ 5 W . . . . . . . . W 
+ 4 W . . . . . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 208 ===
+(8x9) with obs at (5,6)
+Initial Positions: ('O', 5, 6) ('R', 6, 5) ('F', 5, 5)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . O . . . W 
+ 5 W . . . . F R . . W 
+ 4 W . . . . . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 209 ===
+(8x9) with obs at (5,6)
+Initial Positions: ('O', 5, 6) ('R', 5, 5) ('F', 4, 5)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . O . . . W 
+ 5 W . . . F R . . . W 
+ 4 W . . . . . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 210 ===
+(8x9) with obs at (5,6)
+Initial Positions: ('O', 5, 6) ('L', 6, 7) ('F', 5, 7)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . F L . . W 
+ 6 W . . . . O . . . W 
+ 5 W . . . . . . . . W 
+ 4 W . . . . . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 211 ===
+(8x9) with obs at (5,6)
+Initial Positions: ('O', 5, 6) ('L', 5, 7) ('F', 4, 7)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . . F L . . . W 
+ 6 W . . . . O . . . W 
+ 5 W . . . . . . . . W 
+ 4 W . . . . . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 212 ===
+(8x9) with obs at (5,6)
+Initial Positions: ('O', 5, 6) ('L', 7, 6) ('F', 6, 6)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . O F L . W 
+ 5 W . . . . . . . . W 
+ 4 W . . . . . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 213 ===
+(8x9) with obs at (5,6)
+Initial Positions: ('O', 5, 6) ('L', 4, 6) ('F', 3, 6)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . F L O . . . W 
+ 5 W . . . . . . . . W 
+ 4 W . . . . . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 214 ===
+(8x9) with obs at (5,6)
+Initial Positions: ('O', 5, 6) ('L', 6, 5) ('F', 5, 5)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . O . . . W 
+ 5 W . . . . F L . . W 
+ 4 W . . . . . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 215 ===
+(8x9) with obs at (5,6)
+Initial Positions: ('O', 5, 6) ('L', 5, 5) ('F', 4, 5)
+Boundaries: (0, 0, 9, 10)
+========================
+
+Grid (8x9) with positions:
+10 W W W W W W W W W W 
+ 9 W . . . . . . . . W 
+ 8 W . . . . . . . . W 
+ 7 W . . . . . . . . W 
+ 6 W . . . . O . . . W 
+ 5 W . . . F L . . . W 
+ 4 W . . . . . . . . W 
+ 3 W . . . . . . . . W 
+ 2 W . . . . . . . . W 
+ 1 W . . . . . . . . W 
+ 0 W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 
+
+
+----------------------------------------
+
+=== ValidationConfig 216 ===
+(9x7) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('R', 5, 5) ('F', 4, 5)
+Boundaries: (0, 0, 10, 8)
+========================
+
+Grid (9x7) with positions:
+ 8 W W W W W W W W W W W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . F R . . . . W 
+ 4 W . . . O . . . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 217 ===
+(9x7) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('R', 4, 5) ('F', 3, 5)
+Boundaries: (0, 0, 10, 8)
+========================
+
+Grid (9x7) with positions:
+ 8 W W W W W W W W W W W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . F R . . . . . W 
+ 4 W . . . O . . . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 218 ===
+(9x7) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('R', 6, 4) ('F', 5, 4)
+Boundaries: (0, 0, 10, 8)
+========================
+
+Grid (9x7) with positions:
+ 8 W W W W W W W W W W W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . . . . . . W 
+ 4 W . . . O F R . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 219 ===
+(9x7) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('R', 3, 4) ('F', 2, 4)
+Boundaries: (0, 0, 10, 8)
+========================
+
+Grid (9x7) with positions:
+ 8 W W W W W W W W W W W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . . . . . . W 
+ 4 W . F R O . . . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 220 ===
+(9x7) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('R', 5, 3) ('F', 4, 3)
+Boundaries: (0, 0, 10, 8)
+========================
+
+Grid (9x7) with positions:
+ 8 W W W W W W W W W W W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . . . . . . W 
+ 4 W . . . O . . . . . W 
+ 3 W . . . F R . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 221 ===
+(9x7) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('R', 4, 3) ('F', 3, 3)
+Boundaries: (0, 0, 10, 8)
+========================
+
+Grid (9x7) with positions:
+ 8 W W W W W W W W W W W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . . . . . . W 
+ 4 W . . . O . . . . . W 
+ 3 W . . F R . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 222 ===
+(9x7) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('L', 5, 5) ('F', 4, 5)
+Boundaries: (0, 0, 10, 8)
+========================
+
+Grid (9x7) with positions:
+ 8 W W W W W W W W W W W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . F L . . . . W 
+ 4 W . . . O . . . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 223 ===
+(9x7) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('L', 4, 5) ('F', 3, 5)
+Boundaries: (0, 0, 10, 8)
+========================
+
+Grid (9x7) with positions:
+ 8 W W W W W W W W W W W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . F L . . . . . W 
+ 4 W . . . O . . . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 224 ===
+(9x7) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('L', 6, 4) ('F', 5, 4)
+Boundaries: (0, 0, 10, 8)
+========================
+
+Grid (9x7) with positions:
+ 8 W W W W W W W W W W W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . . . . . . W 
+ 4 W . . . O F L . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 225 ===
+(9x7) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('L', 3, 4) ('F', 2, 4)
+Boundaries: (0, 0, 10, 8)
+========================
+
+Grid (9x7) with positions:
+ 8 W W W W W W W W W W W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . . . . . . W 
+ 4 W . F L O . . . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 226 ===
+(9x7) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('L', 5, 3) ('F', 4, 3)
+Boundaries: (0, 0, 10, 8)
+========================
+
+Grid (9x7) with positions:
+ 8 W W W W W W W W W W W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . . . . . . W 
+ 4 W . . . O . . . . . W 
+ 3 W . . . F L . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 227 ===
+(9x7) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('L', 4, 3) ('F', 3, 3)
+Boundaries: (0, 0, 10, 8)
+========================
+
+Grid (9x7) with positions:
+ 8 W W W W W W W W W W W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . . . . . . W 
+ 4 W . . . O . . . . . W 
+ 3 W . . F L . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 228 ===
+(9x7) with obs at (5,4)
+Initial Positions: ('O', 5, 4) ('R', 6, 5) ('F', 5, 5)
+Boundaries: (0, 0, 10, 8)
+========================
+
+Grid (9x7) with positions:
+ 8 W W W W W W W W W W W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . F R . . . W 
+ 4 W . . . . O . . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 229 ===
+(9x7) with obs at (5,4)
+Initial Positions: ('O', 5, 4) ('R', 5, 5) ('F', 4, 5)
+Boundaries: (0, 0, 10, 8)
+========================
+
+Grid (9x7) with positions:
+ 8 W W W W W W W W W W W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . F R . . . . W 
+ 4 W . . . . O . . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 230 ===
+(9x7) with obs at (5,4)
+Initial Positions: ('O', 5, 4) ('R', 7, 4) ('F', 6, 4)
+Boundaries: (0, 0, 10, 8)
+========================
+
+Grid (9x7) with positions:
+ 8 W W W W W W W W W W W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . . . . . . W 
+ 4 W . . . . O F R . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 231 ===
+(9x7) with obs at (5,4)
+Initial Positions: ('O', 5, 4) ('R', 4, 4) ('F', 3, 4)
+Boundaries: (0, 0, 10, 8)
+========================
+
+Grid (9x7) with positions:
+ 8 W W W W W W W W W W W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . . . . . . W 
+ 4 W . . F R O . . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 232 ===
+(9x7) with obs at (5,4)
+Initial Positions: ('O', 5, 4) ('R', 6, 3) ('F', 5, 3)
+Boundaries: (0, 0, 10, 8)
+========================
+
+Grid (9x7) with positions:
+ 8 W W W W W W W W W W W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . . . . . . W 
+ 4 W . . . . O . . . . W 
+ 3 W . . . . F R . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 233 ===
+(9x7) with obs at (5,4)
+Initial Positions: ('O', 5, 4) ('R', 5, 3) ('F', 4, 3)
+Boundaries: (0, 0, 10, 8)
+========================
+
+Grid (9x7) with positions:
+ 8 W W W W W W W W W W W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . . . . . . W 
+ 4 W . . . . O . . . . W 
+ 3 W . . . F R . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 234 ===
+(9x7) with obs at (5,4)
+Initial Positions: ('O', 5, 4) ('L', 6, 5) ('F', 5, 5)
+Boundaries: (0, 0, 10, 8)
+========================
+
+Grid (9x7) with positions:
+ 8 W W W W W W W W W W W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . F L . . . W 
+ 4 W . . . . O . . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 235 ===
+(9x7) with obs at (5,4)
+Initial Positions: ('O', 5, 4) ('L', 5, 5) ('F', 4, 5)
+Boundaries: (0, 0, 10, 8)
+========================
+
+Grid (9x7) with positions:
+ 8 W W W W W W W W W W W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . F L . . . . W 
+ 4 W . . . . O . . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 236 ===
+(9x7) with obs at (5,4)
+Initial Positions: ('O', 5, 4) ('L', 7, 4) ('F', 6, 4)
+Boundaries: (0, 0, 10, 8)
+========================
+
+Grid (9x7) with positions:
+ 8 W W W W W W W W W W W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . . . . . . W 
+ 4 W . . . . O F L . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 237 ===
+(9x7) with obs at (5,4)
+Initial Positions: ('O', 5, 4) ('L', 4, 4) ('F', 3, 4)
+Boundaries: (0, 0, 10, 8)
+========================
+
+Grid (9x7) with positions:
+ 8 W W W W W W W W W W W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . . . . . . W 
+ 4 W . . F L O . . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 238 ===
+(9x7) with obs at (5,4)
+Initial Positions: ('O', 5, 4) ('L', 6, 3) ('F', 5, 3)
+Boundaries: (0, 0, 10, 8)
+========================
+
+Grid (9x7) with positions:
+ 8 W W W W W W W W W W W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . . . . . . W 
+ 4 W . . . . O . . . . W 
+ 3 W . . . . F L . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 239 ===
+(9x7) with obs at (5,4)
+Initial Positions: ('O', 5, 4) ('L', 5, 3) ('F', 4, 3)
+Boundaries: (0, 0, 10, 8)
+========================
+
+Grid (9x7) with positions:
+ 8 W W W W W W W W W W W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . . . . . . W 
+ 4 W . . . . O . . . . W 
+ 3 W . . . F L . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 240 ===
+(9x7) with obs at (6,4)
+Initial Positions: ('O', 6, 4) ('R', 7, 5) ('F', 6, 5)
+Boundaries: (0, 0, 10, 8)
+========================
+
+Grid (9x7) with positions:
+ 8 W W W W W W W W W W W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . . F R . . W 
+ 4 W . . . . . O . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 241 ===
+(9x7) with obs at (6,4)
+Initial Positions: ('O', 6, 4) ('R', 6, 5) ('F', 5, 5)
+Boundaries: (0, 0, 10, 8)
+========================
+
+Grid (9x7) with positions:
+ 8 W W W W W W W W W W W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . F R . . . W 
+ 4 W . . . . . O . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 242 ===
+(9x7) with obs at (6,4)
+Initial Positions: ('O', 6, 4) ('R', 8, 4) ('F', 7, 4)
+Boundaries: (0, 0, 10, 8)
+========================
+
+Grid (9x7) with positions:
+ 8 W W W W W W W W W W W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . . . . . . W 
+ 4 W . . . . . O F R . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 243 ===
+(9x7) with obs at (6,4)
+Initial Positions: ('O', 6, 4) ('R', 5, 4) ('F', 4, 4)
+Boundaries: (0, 0, 10, 8)
+========================
+
+Grid (9x7) with positions:
+ 8 W W W W W W W W W W W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . . . . . . W 
+ 4 W . . . F R O . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 244 ===
+(9x7) with obs at (6,4)
+Initial Positions: ('O', 6, 4) ('R', 7, 3) ('F', 6, 3)
+Boundaries: (0, 0, 10, 8)
+========================
+
+Grid (9x7) with positions:
+ 8 W W W W W W W W W W W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . . . . . . W 
+ 4 W . . . . . O . . . W 
+ 3 W . . . . . F R . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 245 ===
+(9x7) with obs at (6,4)
+Initial Positions: ('O', 6, 4) ('R', 6, 3) ('F', 5, 3)
+Boundaries: (0, 0, 10, 8)
+========================
+
+Grid (9x7) with positions:
+ 8 W W W W W W W W W W W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . . . . . . W 
+ 4 W . . . . . O . . . W 
+ 3 W . . . . F R . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 246 ===
+(9x7) with obs at (6,4)
+Initial Positions: ('O', 6, 4) ('L', 7, 5) ('F', 6, 5)
+Boundaries: (0, 0, 10, 8)
+========================
+
+Grid (9x7) with positions:
+ 8 W W W W W W W W W W W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . . F L . . W 
+ 4 W . . . . . O . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 247 ===
+(9x7) with obs at (6,4)
+Initial Positions: ('O', 6, 4) ('L', 6, 5) ('F', 5, 5)
+Boundaries: (0, 0, 10, 8)
+========================
+
+Grid (9x7) with positions:
+ 8 W W W W W W W W W W W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . F L . . . W 
+ 4 W . . . . . O . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 248 ===
+(9x7) with obs at (6,4)
+Initial Positions: ('O', 6, 4) ('L', 8, 4) ('F', 7, 4)
+Boundaries: (0, 0, 10, 8)
+========================
+
+Grid (9x7) with positions:
+ 8 W W W W W W W W W W W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . . . . . . W 
+ 4 W . . . . . O F L . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 249 ===
+(9x7) with obs at (6,4)
+Initial Positions: ('O', 6, 4) ('L', 5, 4) ('F', 4, 4)
+Boundaries: (0, 0, 10, 8)
+========================
+
+Grid (9x7) with positions:
+ 8 W W W W W W W W W W W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . . . . . . W 
+ 4 W . . . F L O . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 250 ===
+(9x7) with obs at (6,4)
+Initial Positions: ('O', 6, 4) ('L', 7, 3) ('F', 6, 3)
+Boundaries: (0, 0, 10, 8)
+========================
+
+Grid (9x7) with positions:
+ 8 W W W W W W W W W W W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . . . . . . W 
+ 4 W . . . . . O . . . W 
+ 3 W . . . . . F L . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 251 ===
+(9x7) with obs at (6,4)
+Initial Positions: ('O', 6, 4) ('L', 6, 3) ('F', 5, 3)
+Boundaries: (0, 0, 10, 8)
+========================
+
+Grid (9x7) with positions:
+ 8 W W W W W W W W W W W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . . . . . . W 
+ 4 W . . . . . O . . . W 
+ 3 W . . . . F L . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 252 ===
+(9x8) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('R', 5, 5) ('F', 4, 5)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . F R . . . . W 
+ 4 W . . . O . . . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 253 ===
+(9x8) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('R', 4, 5) ('F', 3, 5)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . F R . . . . . W 
+ 4 W . . . O . . . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 254 ===
+(9x8) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('R', 6, 4) ('F', 5, 4)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . . . . . . W 
+ 4 W . . . O F R . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 255 ===
+(9x8) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('R', 3, 4) ('F', 2, 4)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . . . . . . W 
+ 4 W . F R O . . . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 256 ===
+(9x8) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('R', 5, 3) ('F', 4, 3)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . . . . . . W 
+ 4 W . . . O . . . . . W 
+ 3 W . . . F R . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 257 ===
+(9x8) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('R', 4, 3) ('F', 3, 3)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . . . . . . W 
+ 4 W . . . O . . . . . W 
+ 3 W . . F R . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 258 ===
+(9x8) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('L', 5, 5) ('F', 4, 5)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . F L . . . . W 
+ 4 W . . . O . . . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 259 ===
+(9x8) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('L', 4, 5) ('F', 3, 5)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . F L . . . . . W 
+ 4 W . . . O . . . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 260 ===
+(9x8) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('L', 6, 4) ('F', 5, 4)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . . . . . . W 
+ 4 W . . . O F L . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 261 ===
+(9x8) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('L', 3, 4) ('F', 2, 4)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . . . . . . W 
+ 4 W . F L O . . . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 262 ===
+(9x8) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('L', 5, 3) ('F', 4, 3)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . . . . . . W 
+ 4 W . . . O . . . . . W 
+ 3 W . . . F L . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 263 ===
+(9x8) with obs at (4,4)
+Initial Positions: ('O', 4, 4) ('L', 4, 3) ('F', 3, 3)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . . . . . . W 
+ 4 W . . . O . . . . . W 
+ 3 W . . F L . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 264 ===
+(9x8) with obs at (4,5)
+Initial Positions: ('O', 4, 5) ('R', 5, 6) ('F', 4, 6)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . F R . . . . W 
+ 5 W . . . O . . . . . W 
+ 4 W . . . . . . . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 265 ===
+(9x8) with obs at (4,5)
+Initial Positions: ('O', 4, 5) ('R', 4, 6) ('F', 3, 6)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . F R . . . . . W 
+ 5 W . . . O . . . . . W 
+ 4 W . . . . . . . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 266 ===
+(9x8) with obs at (4,5)
+Initial Positions: ('O', 4, 5) ('R', 6, 5) ('F', 5, 5)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . O F R . . . W 
+ 4 W . . . . . . . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 267 ===
+(9x8) with obs at (4,5)
+Initial Positions: ('O', 4, 5) ('R', 3, 5) ('F', 2, 5)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . F R O . . . . . W 
+ 4 W . . . . . . . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 268 ===
+(9x8) with obs at (4,5)
+Initial Positions: ('O', 4, 5) ('R', 5, 4) ('F', 4, 4)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . O . . . . . W 
+ 4 W . . . F R . . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 269 ===
+(9x8) with obs at (4,5)
+Initial Positions: ('O', 4, 5) ('R', 4, 4) ('F', 3, 4)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . O . . . . . W 
+ 4 W . . F R . . . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 270 ===
+(9x8) with obs at (4,5)
+Initial Positions: ('O', 4, 5) ('L', 5, 6) ('F', 4, 6)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . F L . . . . W 
+ 5 W . . . O . . . . . W 
+ 4 W . . . . . . . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 271 ===
+(9x8) with obs at (4,5)
+Initial Positions: ('O', 4, 5) ('L', 4, 6) ('F', 3, 6)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . F L . . . . . W 
+ 5 W . . . O . . . . . W 
+ 4 W . . . . . . . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 272 ===
+(9x8) with obs at (4,5)
+Initial Positions: ('O', 4, 5) ('L', 6, 5) ('F', 5, 5)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . O F L . . . W 
+ 4 W . . . . . . . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 273 ===
+(9x8) with obs at (4,5)
+Initial Positions: ('O', 4, 5) ('L', 3, 5) ('F', 2, 5)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . F L O . . . . . W 
+ 4 W . . . . . . . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 274 ===
+(9x8) with obs at (4,5)
+Initial Positions: ('O', 4, 5) ('L', 5, 4) ('F', 4, 4)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . O . . . . . W 
+ 4 W . . . F L . . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 275 ===
+(9x8) with obs at (4,5)
+Initial Positions: ('O', 4, 5) ('L', 4, 4) ('F', 3, 4)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . O . . . . . W 
+ 4 W . . F L . . . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 276 ===
+(9x8) with obs at (5,4)
+Initial Positions: ('O', 5, 4) ('R', 6, 5) ('F', 5, 5)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . F R . . . W 
+ 4 W . . . . O . . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 277 ===
+(9x8) with obs at (5,4)
+Initial Positions: ('O', 5, 4) ('R', 5, 5) ('F', 4, 5)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . F R . . . . W 
+ 4 W . . . . O . . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 278 ===
+(9x8) with obs at (5,4)
+Initial Positions: ('O', 5, 4) ('R', 7, 4) ('F', 6, 4)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . . . . . . W 
+ 4 W . . . . O F R . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 279 ===
+(9x8) with obs at (5,4)
+Initial Positions: ('O', 5, 4) ('R', 4, 4) ('F', 3, 4)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . . . . . . W 
+ 4 W . . F R O . . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 280 ===
+(9x8) with obs at (5,4)
+Initial Positions: ('O', 5, 4) ('R', 6, 3) ('F', 5, 3)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . . . . . . W 
+ 4 W . . . . O . . . . W 
+ 3 W . . . . F R . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 281 ===
+(9x8) with obs at (5,4)
+Initial Positions: ('O', 5, 4) ('R', 5, 3) ('F', 4, 3)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . . . . . . W 
+ 4 W . . . . O . . . . W 
+ 3 W . . . F R . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 282 ===
+(9x8) with obs at (5,4)
+Initial Positions: ('O', 5, 4) ('L', 6, 5) ('F', 5, 5)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . F L . . . W 
+ 4 W . . . . O . . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 283 ===
+(9x8) with obs at (5,4)
+Initial Positions: ('O', 5, 4) ('L', 5, 5) ('F', 4, 5)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . F L . . . . W 
+ 4 W . . . . O . . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 284 ===
+(9x8) with obs at (5,4)
+Initial Positions: ('O', 5, 4) ('L', 7, 4) ('F', 6, 4)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . . . . . . W 
+ 4 W . . . . O F L . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 285 ===
+(9x8) with obs at (5,4)
+Initial Positions: ('O', 5, 4) ('L', 4, 4) ('F', 3, 4)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . . . . . . W 
+ 4 W . . F L O . . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 286 ===
+(9x8) with obs at (5,4)
+Initial Positions: ('O', 5, 4) ('L', 6, 3) ('F', 5, 3)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . . . . . . W 
+ 4 W . . . . O . . . . W 
+ 3 W . . . . F L . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 287 ===
+(9x8) with obs at (5,4)
+Initial Positions: ('O', 5, 4) ('L', 5, 3) ('F', 4, 3)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . . . . . . W 
+ 4 W . . . . O . . . . W 
+ 3 W . . . F L . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 288 ===
+(9x8) with obs at (5,5)
+Initial Positions: ('O', 5, 5) ('R', 6, 6) ('F', 5, 6)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . F R . . . W 
+ 5 W . . . . O . . . . W 
+ 4 W . . . . . . . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 289 ===
+(9x8) with obs at (5,5)
+Initial Positions: ('O', 5, 5) ('R', 5, 6) ('F', 4, 6)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . F R . . . . W 
+ 5 W . . . . O . . . . W 
+ 4 W . . . . . . . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 290 ===
+(9x8) with obs at (5,5)
+Initial Positions: ('O', 5, 5) ('R', 7, 5) ('F', 6, 5)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . O F R . . W 
+ 4 W . . . . . . . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 291 ===
+(9x8) with obs at (5,5)
+Initial Positions: ('O', 5, 5) ('R', 4, 5) ('F', 3, 5)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . F R O . . . . W 
+ 4 W . . . . . . . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 292 ===
+(9x8) with obs at (5,5)
+Initial Positions: ('O', 5, 5) ('R', 6, 4) ('F', 5, 4)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . O . . . . W 
+ 4 W . . . . F R . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 293 ===
+(9x8) with obs at (5,5)
+Initial Positions: ('O', 5, 5) ('R', 5, 4) ('F', 4, 4)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . O . . . . W 
+ 4 W . . . F R . . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 294 ===
+(9x8) with obs at (5,5)
+Initial Positions: ('O', 5, 5) ('L', 6, 6) ('F', 5, 6)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . F L . . . W 
+ 5 W . . . . O . . . . W 
+ 4 W . . . . . . . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 295 ===
+(9x8) with obs at (5,5)
+Initial Positions: ('O', 5, 5) ('L', 5, 6) ('F', 4, 6)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . F L . . . . W 
+ 5 W . . . . O . . . . W 
+ 4 W . . . . . . . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 296 ===
+(9x8) with obs at (5,5)
+Initial Positions: ('O', 5, 5) ('L', 7, 5) ('F', 6, 5)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . O F L . . W 
+ 4 W . . . . . . . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 297 ===
+(9x8) with obs at (5,5)
+Initial Positions: ('O', 5, 5) ('L', 4, 5) ('F', 3, 5)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . F L O . . . . W 
+ 4 W . . . . . . . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 298 ===
+(9x8) with obs at (5,5)
+Initial Positions: ('O', 5, 5) ('L', 6, 4) ('F', 5, 4)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . O . . . . W 
+ 4 W . . . . F L . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 299 ===
+(9x8) with obs at (5,5)
+Initial Positions: ('O', 5, 5) ('L', 5, 4) ('F', 4, 4)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . O . . . . W 
+ 4 W . . . F L . . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 300 ===
+(9x8) with obs at (6,4)
+Initial Positions: ('O', 6, 4) ('R', 7, 5) ('F', 6, 5)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . . F R . . W 
+ 4 W . . . . . O . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 301 ===
+(9x8) with obs at (6,4)
+Initial Positions: ('O', 6, 4) ('R', 6, 5) ('F', 5, 5)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . F R . . . W 
+ 4 W . . . . . O . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 302 ===
+(9x8) with obs at (6,4)
+Initial Positions: ('O', 6, 4) ('R', 8, 4) ('F', 7, 4)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . . . . . . W 
+ 4 W . . . . . O F R . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 303 ===
+(9x8) with obs at (6,4)
+Initial Positions: ('O', 6, 4) ('R', 5, 4) ('F', 4, 4)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . . . . . . W 
+ 4 W . . . F R O . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 304 ===
+(9x8) with obs at (6,4)
+Initial Positions: ('O', 6, 4) ('R', 7, 3) ('F', 6, 3)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . . . . . . W 
+ 4 W . . . . . O . . . W 
+ 3 W . . . . . F R . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 305 ===
+(9x8) with obs at (6,4)
+Initial Positions: ('O', 6, 4) ('R', 6, 3) ('F', 5, 3)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . . . . . . W 
+ 4 W . . . . . O . . . W 
+ 3 W . . . . F R . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 306 ===
+(9x8) with obs at (6,4)
+Initial Positions: ('O', 6, 4) ('L', 7, 5) ('F', 6, 5)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . . F L . . W 
+ 4 W . . . . . O . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 307 ===
+(9x8) with obs at (6,4)
+Initial Positions: ('O', 6, 4) ('L', 6, 5) ('F', 5, 5)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . F L . . . W 
+ 4 W . . . . . O . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 308 ===
+(9x8) with obs at (6,4)
+Initial Positions: ('O', 6, 4) ('L', 8, 4) ('F', 7, 4)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . . . . . . W 
+ 4 W . . . . . O F L . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 309 ===
+(9x8) with obs at (6,4)
+Initial Positions: ('O', 6, 4) ('L', 5, 4) ('F', 4, 4)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . . . . . . W 
+ 4 W . . . F L O . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 310 ===
+(9x8) with obs at (6,4)
+Initial Positions: ('O', 6, 4) ('L', 7, 3) ('F', 6, 3)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . . . . . . W 
+ 4 W . . . . . O . . . W 
+ 3 W . . . . . F L . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 311 ===
+(9x8) with obs at (6,4)
+Initial Positions: ('O', 6, 4) ('L', 6, 3) ('F', 5, 3)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . . . . . . W 
+ 4 W . . . . . O . . . W 
+ 3 W . . . . F L . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 312 ===
+(9x8) with obs at (6,5)
+Initial Positions: ('O', 6, 5) ('R', 7, 6) ('F', 6, 6)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . F R . . W 
+ 5 W . . . . . O . . . W 
+ 4 W . . . . . . . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 313 ===
+(9x8) with obs at (6,5)
+Initial Positions: ('O', 6, 5) ('R', 6, 6) ('F', 5, 6)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . F R . . . W 
+ 5 W . . . . . O . . . W 
+ 4 W . . . . . . . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 314 ===
+(9x8) with obs at (6,5)
+Initial Positions: ('O', 6, 5) ('R', 8, 5) ('F', 7, 5)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . . O F R . W 
+ 4 W . . . . . . . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 315 ===
+(9x8) with obs at (6,5)
+Initial Positions: ('O', 6, 5) ('R', 5, 5) ('F', 4, 5)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . F R O . . . W 
+ 4 W . . . . . . . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 316 ===
+(9x8) with obs at (6,5)
+Initial Positions: ('O', 6, 5) ('R', 7, 4) ('F', 6, 4)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . . O . . . W 
+ 4 W . . . . . F R . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 317 ===
+(9x8) with obs at (6,5)
+Initial Positions: ('O', 6, 5) ('R', 6, 4) ('F', 5, 4)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . . O . . . W 
+ 4 W . . . . F R . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 318 ===
+(9x8) with obs at (6,5)
+Initial Positions: ('O', 6, 5) ('L', 7, 6) ('F', 6, 6)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . F L . . W 
+ 5 W . . . . . O . . . W 
+ 4 W . . . . . . . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 319 ===
+(9x8) with obs at (6,5)
+Initial Positions: ('O', 6, 5) ('L', 6, 6) ('F', 5, 6)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . F L . . . W 
+ 5 W . . . . . O . . . W 
+ 4 W . . . . . . . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 320 ===
+(9x8) with obs at (6,5)
+Initial Positions: ('O', 6, 5) ('L', 8, 5) ('F', 7, 5)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . . O F L . W 
+ 4 W . . . . . . . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 321 ===
+(9x8) with obs at (6,5)
+Initial Positions: ('O', 6, 5) ('L', 5, 5) ('F', 4, 5)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . F L O . . . W 
+ 4 W . . . . . . . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 322 ===
+(9x8) with obs at (6,5)
+Initial Positions: ('O', 6, 5) ('L', 7, 4) ('F', 6, 4)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . . O . . . W 
+ 4 W . . . . . F L . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
+=== ValidationConfig 323 ===
+(9x8) with obs at (6,5)
+Initial Positions: ('O', 6, 5) ('L', 6, 4) ('F', 5, 4)
+Boundaries: (0, 0, 10, 9)
+========================
+
+Grid (9x8) with positions:
+ 9 W W W W W W W W W W W 
+ 8 W . . . . . . . . . W 
+ 7 W . . . . . . . . . W 
+ 6 W . . . . . . . . . W 
+ 5 W . . . . . O . . . W 
+ 4 W . . . . F L . . . W 
+ 3 W . . . . . . . . . W 
+ 2 W . . . . . . . . . W 
+ 1 W . . . . . . . . . W 
+ 0 W W W W W W W W W W W 
+   0 1 2 3 4 5 6 7 8 9 10 
+
+
+----------------------------------------
+
